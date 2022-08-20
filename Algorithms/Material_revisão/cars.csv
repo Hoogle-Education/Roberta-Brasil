@@ -1,0 +1,2001 @@
+ID,Year,Make,Model,Category,Colour,Price
+0,2012,Dodge,Avenger,Sedan,Aqua,41907
+1,1996,Chevrolet,Blazer,SUV,PaleVioletRed,26476
+2,2006,GMC,Sierra 1500 Regular Cab,Pickup,CadetBlue,3549
+3,1996,Nissan,Altima,Sedan,Khaki,19281
+4,2012,Nissan,Altima,"Coupe, Sedan",White,6036
+5,2010,Ford,Expedition,SUV,Blue,9008
+6,2005,MAZDA,MAZDA6,"Sedan, Hatchback, Wagon",DeepPink,27324
+7,2013,BMW,M6,"Coupe, Convertible",AntiqueWhite,41556
+8,1999,Lexus,GS,Sedan,IndianRed,27080
+9,1997,Plymouth,Neon,"Sedan, Coupe",DarkSalmon,17722
+10,2018,INFINITI,QX30,SUV,Tan,39359
+11,1997,Audi,A4,Sedan,RosyBrown,10712
+12,2007,Bentley,Arnage,Sedan,DarkSlateBlue,55605
+13,1997,Dodge,Ram Wagon 2500,Van/Minivan,DeepSkyBlue,50698
+14,2018,Hyundai,Santa Fe,SUV,Magenta,28170
+15,2000,Volvo,S40,Sedan,Plum,19170
+16,2009,Chevrolet,Suburban 1500,SUV,LightSkyBlue,45105
+17,2007,Saturn,Aura,Sedan,Navy,29164
+18,2007,Saab,5-Sep,"Sedan, Wagon",Turquoise,33440
+19,1997,Lexus,LS,Sedan,MistyRose,41844
+20,2014,Ford,F250 Super Duty Regular Cab,Pickup,OliveDrab,2931
+21,2003,Jaguar,S-Type,Sedan,Gold,9193
+22,1998,Chevrolet,Suburban 2500,SUV,OrangeRed,36011
+23,2018,Kia,Optima Hybrid,Sedan,Olive,24065
+24,1998,Ford,Mustang,"Coupe, Convertible",Moccasin,3032
+25,2006,Pontiac,Montana SV6,Van/Minivan,AliceBlue,4348
+26,2000,Ford,F350 Super Duty Regular Cab,Pickup,HotPink,9661
+27,1998,Ford,F150 Regular Cab,Pickup,LightSteelBlue,40432
+28,2015,Lexus,LX,SUV,GhostWhite,9598
+29,2018,Kia,Niro,Wagon,LightSteelBlue,46481
+30,2010,Lexus,HS,Sedan,AliceBlue,59347
+31,2015,FIAT,500c,Convertible,MediumSpringGreen,21461
+32,2018,Chevrolet,Cruze,"Sedan, Hatchback",SlateBlue,54139
+33,1994,Cadillac,Seville,Sedan,MediumSeaGreen,26182
+34,2018,GMC,Savana 3500 Cargo,Van/Minivan,Teal,50573
+35,2010,Cadillac,Escalade,SUV,Magenta,25580
+36,2012,Chevrolet,Express 2500 Passenger,Van/Minivan,MistyRose,19809
+37,2012,Nissan,Maxima,Sedan,DarkSeaGreen,35450
+38,2015,Ford,F150 Regular Cab,Pickup,Gainsboro,37871
+39,1997,Nissan,Maxima,Sedan,Orange,3795
+40,1992,GMC,3500 Regular Cab,Pickup,LightPink,45904
+41,1999,Chrysler,LHS,Sedan,RoyalBlue,43160
+42,2008,Ford,Mustang,"Coupe, Convertible",Azure,45644
+43,1999,Ford,Escort,"Sedan, Wagon, Coupe",SteelBlue,25814
+44,2018,Honda,Accord,Sedan,DimGray,21543
+45,2001,Ford,F350 Super Duty Super Cab,Pickup,Gold,51931
+46,1998,GMC,Savana 1500 Passenger,Van/Minivan,BlueViolet,12855
+47,2008,Dodge,Ram 2500 Regular Cab,Pickup,NavajoWhite,19097
+48,1995,Porsche,911,"Coupe, Convertible",Wheat,23854
+49,2013,Ram,1500 Regular Cab,Pickup,DeepPink,7178
+50,2010,Mercury,Milan,Sedan,DarkSeaGreen,57989
+51,1992,BMW,7 Series,Sedan,DodgerBlue,8489
+52,2007,Pontiac,G6,"Sedan, Coupe, Convertible",DarkRed,6979
+53,2012,Ford,F350 Super Duty Regular Cab,Pickup,Red,16199
+54,2007,Kia,Optima,Sedan,PowderBlue,40352
+55,1999,Dodge,Ram Wagon 3500,Van/Minivan,GoldenRod,13855
+56,2005,Chevrolet,Aveo,"Sedan, Hatchback",SandyBrown,36945
+57,2009,Ford,E150 Super Duty Passenger,Van/Minivan,Pink,10075
+58,2015,Nissan,Frontier King Cab,Pickup,LightSalmon,40222
+59,2003,Chrysler,Sebring,"Sedan, Coupe, Convertible",Cornsilk,56899
+60,2009,Chevrolet,Corvette,"Coupe, Convertible",Cyan,32750
+61,2000,MAZDA,MPV,Van/Minivan,DarkTurquoise,16058
+62,1998,Saturn,S-Series,"Coupe, Sedan, Wagon",BlueViolet,29026
+63,2004,Dodge,Viper,Convertible,GhostWhite,43303
+64,2011,Cadillac,STS,Sedan,MediumVioletRed,50892
+65,1993,Volkswagen,Jetta III,Sedan,CadetBlue,41592
+66,1994,Toyota,Supra,Hatchback,LawnGreen,44919
+67,2011,BMW,M3,"Convertible, Coupe, Sedan",SpringGreen,29611
+68,1995,Hyundai,Sonata,Sedan,DarkGreen,38760
+69,2015,Ram,ProMaster City,Van/Minivan,Aqua,5528
+70,2001,Toyota,Land Cruiser,SUV,DarkSalmon,3181
+71,2002,MAZDA,B-Series Cab Plus,Pickup,Tan,33423
+72,2000,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,Silver,23608
+73,2012,Buick,Verano,Sedan,SteelBlue,43801
+74,2003,Jaguar,X-Type,Sedan,CadetBlue,50560
+75,2015,Kia,Sportage,SUV,MediumAquaMarine,5674
+76,2011,Toyota,Venza,Wagon,LawnGreen,38649
+77,2016,Lexus,GX,SUV,PaleTurquoise,5084
+78,1993,GMC,Suburban 1500,SUV,Black,54046
+79,2014,Honda,Ridgeline,Pickup,DarkViolet,50939
+80,1999,Mercury,Cougar,Coupe,Magenta,22585
+81,1997,Dodge,Ram Wagon 3500,Van/Minivan,LightPink,46289
+82,2015,Scion,tC,Coupe,Beige,44404
+83,2003,Hyundai,Elantra,"Sedan, Hatchback",FireBrick,40547
+84,2009,Porsche,911,"Coupe, Convertible",Cornsilk,25274
+85,2018,Jaguar,XE,Sedan,Gray,48338
+86,2011,Nissan,Xterra,SUV,Gold,43013
+87,2003,Toyota,Celica,Hatchback,MediumSpringGreen,13992
+88,2008,Dodge,Sprinter 2500 Cargo,Van/Minivan,DarkBlue,58051
+89,1997,Chevrolet,2500 HD Extended Cab,Pickup,PaleVioletRed,23759
+90,2017,Mercedes-Benz,Sprinter 2500 Cargo,Van/Minivan,DarkOrange,3018
+91,2019,Nissan,Frontier Crew Cab,Pickup,DarkKhaki,56037
+92,1997,Ford,F250 Regular Cab,Pickup,Gray,41883
+93,2012,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,PaleVioletRed,7468
+94,2009,INFINITI,FX,SUV,Orange,40557
+95,1992,Dodge,Ram Wagon B150,Van/Minivan,AntiqueWhite,50144
+96,2000,Kia,Sportage,SUV,DarkCyan,41428
+97,2015,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,PaleGoldenRod,25036
+98,1996,Nissan,Quest,Van/Minivan,Magenta,19247
+99,1992,Acura,Legend,"Sedan, Coupe",BurlyWood,31134
+100,2011,Subaru,Legacy,Sedan,Snow,59264
+101,2003,Audi,A8,Sedan,Brown,40406
+102,2019,Toyota,RAV4 Hybrid,SUV,GoldenRod,26012
+103,1997,Nissan,Regular Cab,Pickup,LightCoral,55516
+104,1999,GMC,Yukon,SUV,LimeGreen,38802
+105,2009,Dodge,Ram 2500 Mega Cab,Pickup,MediumOrchid,48589
+106,2009,GMC,Savana 3500 Cargo,Van/Minivan,SlateBlue,29042
+107,2020,INFINITI,QX60,SUV,Khaki,47325
+108,1999,GMC,Savana 3500 Cargo,Van/Minivan,LightGreen,24963
+109,2001,Saturn,L-Series,"Sedan, Wagon",MediumSeaGreen,54225
+110,2018,Audi,S4,Sedan,DarkGray,23474
+111,2015,INFINITI,Q50,Sedan,DarkOrchid,5998
+112,2012,BMW,Z4,Convertible,DarkCyan,5801
+113,1994,Isuzu,Rodeo,SUV,DarkGray,37213
+114,2006,Honda,CR-V,SUV,MediumOrchid,58764
+115,2011,GMC,Sierra 3500 HD Regular Cab,Pickup,WhiteSmoke,59158
+116,1997,GMC,Suburban 1500,SUV,HotPink,3856
+117,1992,Jaguar,XJ,"Sedan, Coupe, Convertible",PowderBlue,33288
+118,1999,Suzuki,Swift,Hatchback,Blue,15848
+119,2017,BMW,X4,SUV,Fuchsia,2665
+120,1995,Audi,A6,"Wagon, Sedan",Azure,56905
+121,2002,Chevrolet,Venture Cargo,Van/Minivan,PowderBlue,44365
+122,1999,Toyota,RAV4,SUV,Maroon,9052
+123,1998,Acura,SLX,SUV,Tomato,25199
+124,2012,Scion,iQ,Hatchback,MediumSeaGreen,44670
+125,2000,Buick,Century,Sedan,Magenta,54084
+126,1997,Lincoln,Mark VIII,Coupe,Olive,27368
+127,1993,Audi,90,Sedan,GhostWhite,47483
+128,1996,Nissan,Maxima,Sedan,ForestGreen,11751
+129,2007,MINI,Cooper,Hatchback,RoyalBlue,19472
+130,2019,Porsche,911,"Coupe, Convertible",MediumVioletRed,35585
+131,1996,Geo,Metro,"Hatchback, Sedan",LightGreen,17211
+132,2008,Suzuki,SX4,"Sedan, Hatchback",LightCoral,43136
+133,2005,Pontiac,Vibe,Wagon,DarkSlateBlue,45602
+134,2013,Toyota,Prius,Hatchback,LightGreen,45260
+135,1993,Cadillac,Eldorado,Coupe,DarkSeaGreen,17070
+136,1992,Chevrolet,3500 Regular Cab,Pickup,Gold,27306
+137,1992,Oldsmobile,98,Sedan,MediumSeaGreen,2251
+138,2011,Mitsubishi,Endeavor,SUV,IndianRed,4932
+139,2011,BMW,1 Series,"Coupe, Convertible",DarkGreen,2813
+140,2016,Ram,ProMaster City,Van/Minivan,LightGray,3911
+141,2018,Ram,1500 Quad Cab,Pickup,Aqua,57014
+142,2004,Audi,S4,"Wagon, Convertible, Sedan",MediumTurquoise,42068
+143,2017,BMW,4 Series,"Sedan, Coupe, Convertible",Khaki,24394
+144,2017,GMC,Canyon Extended Cab,Pickup,LightCoral,16387
+145,2008,Toyota,Tundra CrewMax,Pickup,PaleGreen,43431
+146,1992,Chevrolet,1500 Regular Cab,Pickup,SandyBrown,17546
+147,1997,Mitsubishi,Mirage,"Sedan, Coupe",SkyBlue,19277
+148,2011,Nissan,Versa,"Sedan, Hatchback",Pink,10731
+149,2016,Ram,3500 Crew Cab,Pickup,LightGray,49441
+150,1996,Chevrolet,Lumina,Sedan,GoldenRod,38281
+151,2009,Ford,Explorer,SUV,DarkTurquoise,18060
+152,2005,Subaru,Legacy,"Sedan, Wagon",Fuchsia,50594
+153,2016,Ford,Expedition,SUV,SteelBlue,23231
+154,2018,Audi,Q5,SUV,Navy,54776
+155,2013,Honda,Civic,"Sedan, Coupe",CornflowerBlue,5679
+156,2015,Toyota,Sienna,Van/Minivan,Silver,40702
+157,2004,Jaguar,X-Type,Sedan,SeaShell,14211
+158,2016,Ford,F450 Super Duty Crew Cab,Pickup,DarkRed,43289
+159,2001,Daewoo,Nubira,"Sedan, Wagon",Gray,4781
+160,2014,Chevrolet,Spark EV,Hatchback,MediumSeaGreen,46863
+161,2009,INFINITI,FX,SUV,DarkBlue,17808
+162,2015,MAZDA,MX-5 Miata,Convertible,SpringGreen,40961
+163,2009,INFINITI,EX,SUV,HoneyDew,16228
+164,2006,BMW,7 Series,Sedan,OliveDrab,43988
+165,2011,Nissan,cube,Wagon,PaleGoldenRod,59415
+166,2014,Hyundai,Sonata,Sedan,MediumSpringGreen,31289
+167,2011,Chevrolet,Equinox,SUV,DodgerBlue,58224
+168,2014,MAZDA,MAZDA3,"Sedan, Hatchback",Cornsilk,1680
+169,1995,Mitsubishi,Diamante,"Sedan, Wagon",LightSteelBlue,5444
+170,2015,Ford,F150 Regular Cab,Pickup,PapayaWhip,24335
+171,2006,Nissan,Quest,Van/Minivan,Ivory,39029
+172,2019,Subaru,Forester,SUV,LightPink,48923
+173,2007,Ford,Freestyle,SUV,WhiteSmoke,44727
+174,2004,Buick,Rendezvous,SUV,MediumSeaGreen,53963
+175,2020,Lexus,UX,SUV,LightSeaGreen,51541
+176,2017,Ford,Transit Connect Cargo,Van/Minivan,Red,27758
+177,2009,Pontiac,Vibe,Wagon,Magenta,8028
+178,2017,Honda,Accord,"Sedan, Coupe",LightPink,50613
+179,2008,MINI,Clubman,Hatchback,LemonChiffon,36480
+180,1992,Hyundai,Excel,"Sedan, Hatchback",DeepPink,52958
+181,2018,MAZDA,CX-5,SUV,LightSteelBlue,12188
+182,2006,Bentley,Continental,"Sedan, Coupe",DarkTurquoise,57954
+183,2007,Chevrolet,Express 1500 Passenger,Van/Minivan,Thistle,59058
+184,1992,Nissan,Pathfinder,SUV,AntiqueWhite,40881
+185,2010,MAZDA,RX-8,Coupe,CornflowerBlue,29247
+186,2016,Ford,C-MAX Energi,Wagon,LimeGreen,21323
+187,2012,Mitsubishi,Galant,Sedan,LightSlateGray,52417
+188,2018,GMC,Savana 3500 Cargo,Van/Minivan,LightPink,55118
+189,2018,Volkswagen,Tiguan Limited,SUV,Beige,24332
+190,2000,Audi,A6,"Sedan, Wagon",Ivory,59169
+191,2017,Cadillac,ATS-V,"Sedan, Coupe",Silver,40062
+192,2000,Jeep,Wrangler,SUV,LavenderBlush,32001
+193,2001,Mercedes-Benz,M-Class,SUV,Maroon,51469
+194,2014,Nissan,Murano,SUV,LightSalmon,39650
+195,1998,Buick,Park Avenue,Sedan,CadetBlue,48717
+196,1996,Dodge,Ram 3500 Club Cab,Pickup,PaleTurquoise,23894
+197,2005,Chevrolet,SSR,Pickup,Moccasin,8372
+198,2005,BMW,7 Series,Sedan,BlueViolet,3687
+199,2020,Cadillac,Escalade ESV,SUV,Cornsilk,20812
+200,2010,Toyota,Corolla,Sedan,Gainsboro,34132
+201,1995,Chevrolet,Corsica,Sedan,LavenderBlush,12055
+202,2012,Lexus,CT,Hatchback,Sienna,51560
+203,1999,Mitsubishi,Mirage,"Sedan, Coupe",OldLace,4157
+204,2008,Dodge,Ram 1500 Mega Cab,Pickup,NavajoWhite,11882
+205,2020,Kia,Sportage,SUV,LightSeaGreen,34358
+206,1999,Dodge,Grand Caravan Passenger,Van/Minivan,LightCoral,35428
+207,2007,Ford,Ranger Super Cab,Pickup,Peru,44137
+208,2012,Maserati,GranTurismo,"Coupe, Convertible",Bisque,12936
+209,1993,Porsche,911,"Coupe, Convertible",DarkOliveGreen,3569
+210,1994,Dodge,Shadow,Hatchback,MistyRose,40759
+211,2017,Subaru,Crosstrek,SUV,MediumTurquoise,2523
+212,2010,BMW,3 Series,"Sedan, Coupe, Convertible, Wagon",Beige,12423
+213,2019,INFINITI,QX80,SUV,Plum,48535
+214,2015,BMW,X6,SUV,Tan,43250
+215,2011,Mitsubishi,Galant,Sedan,DeepSkyBlue,25492
+216,2000,Ford,Explorer Sport,SUV,OrangeRed,31371
+217,2009,Chevrolet,Express 2500 Cargo,Van/Minivan,DarkOliveGreen,12342
+218,2006,Chevrolet,Equinox,SUV,FireBrick,37039
+219,2010,Dodge,Ram 2500 Regular Cab,Pickup,DarkCyan,47555
+220,1999,Ford,Econoline E350 Cargo,Van/Minivan,MintCream,34544
+221,2015,Nissan,Pathfinder,SUV,GoldenRod,33280
+222,2001,Chevrolet,Express 3500 Passenger,Van/Minivan,SlateGray,36540
+223,2010,Lincoln,Navigator L,SUV,DarkSeaGreen,45352
+224,2004,Chrysler,Concorde,Sedan,LightPink,22805
+225,2012,Ford,Expedition,SUV,Orange,34331
+226,1999,Dodge,Ram 1500 Quad Cab,Pickup,Aquamarine,56050
+227,2017,Chevrolet,Tahoe,SUV,MediumVioletRed,41107
+228,2017,Freightliner,Sprinter WORKER Passenger,Van/Minivan,Magenta,44301
+229,2018,Mitsubishi,Outlander,SUV,Linen,27157
+230,2004,Dodge,Sprinter 2500 Cargo,Van/Minivan,Aquamarine,42101
+231,2009,Chevrolet,Colorado Regular Cab,Pickup,Red,44913
+232,2007,Lincoln,Mark LT,Pickup,FireBrick,48956
+233,2004,Nissan,Altima,Sedan,LightYellow,36831
+234,1992,Geo,Storm,"Coupe, Hatchback",LightSkyBlue,15716
+235,2008,Mitsubishi,Raider Extended Cab,Pickup,MediumTurquoise,35054
+236,2008,Volvo,S80,Sedan,PowderBlue,15225
+237,2005,Scion,xB,Hatchback,DarkRed,23276
+238,1998,Chevrolet,2500 Extended Cab,Pickup,Yellow,19843
+239,1993,Buick,Skylark,"Sedan, Coupe",MediumSeaGreen,38544
+240,2016,Kia,Sportage,SUV,SlateBlue,34942
+241,2001,Lexus,LX,SUV,GoldenRod,44609
+242,2014,Jeep,Cherokee,SUV,Cyan,43741
+243,2009,Toyota,Matrix,Wagon,LightCyan,13166
+244,2005,Chrysler,Town & Country,Van/Minivan,Blue,1484
+245,2015,Volkswagen,Golf,Hatchback,DarkRed,13554
+246,2008,Pontiac,Solstice,Convertible,Khaki,21653
+247,2005,Dodge,Sprinter 2500 Cargo,Van/Minivan,Beige,6007
+248,2009,Toyota,Tundra Regular Cab,Pickup,AntiqueWhite,40523
+249,2018,Mitsubishi,Mirage G4,Sedan,DeepSkyBlue,46625
+250,2010,Toyota,Tundra CrewMax,Pickup,DarkViolet,4505
+251,2011,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,DeepSkyBlue,12959
+252,2001,Ford,Windstar Cargo,Van/Minivan,OliveDrab,42668
+253,2000,GMC,Sierra 1500 Regular Cab,Pickup,DarkSeaGreen,3815
+254,2019,Chevrolet,Suburban 3500HD,SUV,PaleVioletRed,15617
+255,2010,Hyundai,Elantra,"Wagon, Sedan",RoyalBlue,50321
+256,2003,Acura,NSX,Coupe,DarkViolet,44759
+257,2011,Mercedes-Benz,M-Class,SUV,AntiqueWhite,19121
+258,2011,Volvo,V50,Wagon,Gainsboro,24358
+259,1999,GMC,Sonoma Extended Cab,Pickup,CornflowerBlue,15451
+260,1997,Lincoln,Continental,Sedan,DarkViolet,4807
+261,2013,BMW,6 Series,"Convertible, Coupe",Sienna,12266
+262,2001,Chevrolet,Express 3500 Cargo,Van/Minivan,Black,44401
+263,2019,BMW,Z4,Convertible,DarkCyan,53213
+264,2006,Ford,Taurus,Sedan,DimGray,41104
+265,2018,Acura,RLX Sport Hybrid,Sedan,Orange,15647
+266,2013,Toyota,Highlander,SUV,CadetBlue,49347
+267,2018,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,MediumOrchid,40141
+268,2015,Porsche,Macan,SUV,DimGray,34751
+269,2017,Volkswagen,CC,Sedan,Black,55357
+270,1993,Plymouth,Colt Vista,Wagon,SeaGreen,20955
+271,2001,Toyota,Avalon,Sedan,Purple,17949
+272,2001,GMC,Sierra 2500 HD Crew Cab,Pickup,RosyBrown,16153
+273,1996,Chevrolet,Suburban 1500,SUV,LimeGreen,1658
+274,2017,Chevrolet,SS,Sedan,Orchid,4400
+275,2008,Land Rover,Range Rover Sport,SUV,Indigo,46576
+276,1996,Volvo,850,"Wagon, Sedan",ForestGreen,29258
+277,1999,Dodge,Ram 2500 Regular Cab,Pickup,Bisque,3403
+278,1994,Acura,NSX,Coupe,Olive,31737
+279,2007,Dodge,Ram 2500 Regular Cab,Pickup,GreenYellow,4824
+280,2014,GMC,Sierra 1500 Regular Cab,Pickup,DarkGreen,34090
+281,2019,BMW,X6,SUV,LimeGreen,7374
+282,1992,GMC,Rally Wagon 2500,Van/Minivan,MediumOrchid,5551
+283,2002,Dodge,Ram Wagon 2500,Van/Minivan,LightBlue,17895
+284,1998,Nissan,Quest,Van/Minivan,LightGreen,45659
+285,2019,Chevrolet,Colorado Extended Cab,Pickup,Magenta,18004
+286,2018,Freightliner,Sprinter 2500 Passenger,Van/Minivan,GoldenRod,46041
+287,2017,Maserati,Ghibli,Sedan,DodgerBlue,40892
+288,2015,Mercedes-Benz,S-Class,"Sedan, Coupe",LightSlateGray,27166
+289,1994,Dodge,Stealth,Coupe,CornflowerBlue,45330
+290,1992,Subaru,SVX,Coupe,WhiteSmoke,36729
+291,2019,Mercedes-Benz,GLE,SUV,MediumTurquoise,55224
+292,2014,Ford,E150 Cargo,Van/Minivan,MediumSeaGreen,54376
+293,1992,Dodge,D250 Club Cab,Pickup,Silver,57112
+294,2012,Suzuki,Equator Crew Cab,Pickup,Brown,3792
+295,2006,Ford,E150 Super Duty Passenger,Van/Minivan,DarkTurquoise,42258
+296,2011,Buick,Enclave,SUV,Green,34391
+297,2012,Scion,xD,Hatchback,LightGoldenRodYellow,33397
+298,2019,Toyota,Corolla,Sedan,Wheat,51363
+299,1992,Dodge,D150 Regular Cab,Pickup,RosyBrown,53125
+300,2017,Cadillac,Escalade,SUV,Indigo,20715
+301,2004,Kia,Rio,"Wagon, Sedan",Brown,9944
+302,2001,Dodge,Ram Van 2500,Van/Minivan,Plum,39138
+303,2009,Ford,Expedition EL,SUV,Thistle,29745
+304,2019,Land Rover,Range Rover Velar,SUV,AntiqueWhite,50282
+305,2020,Ram,2500 Crew Cab,Pickup,Peru,5695
+306,1994,Toyota,Tercel,Sedan,Gold,58323
+307,1993,Honda,Civic,"Coupe, Hatchback, Sedan",Salmon,2945
+308,2020,Kia,Stinger,Sedan,Ivory,27213
+309,2006,Honda,Odyssey,Van/Minivan,Lime,51729
+310,2011,Mercedes-Benz,GLK-Class,SUV,LightGreen,42388
+311,1993,Audi,100,"Sedan, Wagon",DeepSkyBlue,52941
+312,2003,Ford,E350 Super Duty Passenger,Van/Minivan,BurlyWood,39665
+313,2002,Toyota,RAV4,SUV,Lime,41503
+314,2013,Toyota,Tacoma Access Cab,Pickup,DarkGreen,56421
+315,2002,Volkswagen,Jetta,"Sedan, Wagon",MintCream,46144
+316,2017,Volkswagen,CC,Sedan,Blue,44165
+317,1998,Toyota,Land Cruiser,SUV,MediumTurquoise,45694
+318,1999,Chevrolet,Venture Passenger,Van/Minivan,Indigo,33120
+319,2013,Mercedes-Benz,S-Class,Sedan,BlanchedAlmond,6785
+320,2013,GMC,Savana 2500 Passenger,Van/Minivan,MediumTurquoise,48786
+321,2012,Lincoln,Navigator,SUV,GreenYellow,8145
+322,2007,Chevrolet,Express 2500 Cargo,Van/Minivan,Crimson,46908
+323,2006,Ford,F350 Super Duty Super Cab,Pickup,FloralWhite,47906
+324,2003,Mitsubishi,Diamante,Sedan,DeepSkyBlue,2379
+325,2018,Kia,Soul EV,Wagon,Aqua,6280
+326,2018,Ferrari,Portofino,Convertible,LightBlue,11301
+327,2011,Land Rover,LR2,SUV,Orange,42824
+328,1995,Lexus,ES,Sedan,DarkRed,56495
+329,2018,Kia,Cadenza,Sedan,Coral,41007
+330,2019,Buick,Encore,SUV,DarkOrchid,29760
+331,2015,Hyundai,Elantra,Sedan,YellowGreen,35562
+332,2012,Volkswagen,Jetta SportWagen,Wagon,NavajoWhite,18667
+333,1995,Chrysler,Town & Country,Van/Minivan,DarkSalmon,39646
+334,2007,Ford,E150 Super Duty Cargo,Van/Minivan,YellowGreen,10265
+335,2004,BMW,5 Series,Sedan,DimGray,19950
+336,2001,GMC,Sierra 2500 Regular Cab,Pickup,DarkOrchid,52628
+337,2007,Pontiac,G5,Coupe,LightCoral,8338
+338,1992,GMC,Sonoma Club Cab,Pickup,Indigo,30884
+339,2009,Maserati,GranTurismo,Coupe,MediumBlue,1505
+340,2018,Chevrolet,Colorado Crew Cab,Pickup,AntiqueWhite,22582
+341,1992,Hyundai,Sonata,Sedan,Maroon,51512
+342,2010,Lexus,IS,"Convertible, Sedan",MediumSlateBlue,51526
+343,2014,smart,fortwo,"Hatchback, Convertible",Black,29582
+344,1993,Volvo,850,Sedan,DarkViolet,44436
+345,2018,FIAT,500c Abarth,Convertible,SlateGray,47108
+346,2018,Toyota,Tacoma Access Cab,Pickup,Sienna,13907
+347,2007,Chevrolet,Express 1500 Cargo,Van/Minivan,Bisque,39036
+348,2012,Chevrolet,Corvette,"Convertible, Coupe",BlanchedAlmond,38228
+349,2009,GMC,Canyon Regular Cab,Pickup,YellowGreen,30349
+350,2002,Dodge,Intrepid,Sedan,MidnightBlue,25499
+351,2009,Volkswagen,Rabbit,Hatchback,SandyBrown,30117
+352,2017,Nissan,Maxima,Sedan,MediumBlue,7401
+353,2001,Ford,Econoline E350 Super Duty Cargo,Van/Minivan,WhiteSmoke,55399
+354,2016,BMW,6 Series,"Coupe, Sedan, Convertible",FloralWhite,42012
+355,2003,Jaguar,XJ,Sedan,Bisque,36085
+356,2000,Ford,F250 Super Duty Regular Cab,Pickup,HotPink,17891
+357,1992,Mitsubishi,Montero,SUV,SeaShell,18576
+358,2008,Saab,9-7X,SUV,Fuchsia,29346
+359,1992,Mercury,Topaz,"Sedan, Coupe",DarkRed,16671
+360,2020,INFINITI,Q60,Coupe,OldLace,13894
+361,2019,Mercedes-Benz,E-Class,"Coupe, Sedan, Wagon, Convertible",LightCoral,41759
+362,1992,Buick,Park Avenue,Sedan,MediumPurple,53764
+363,1992,Hyundai,Elantra,Sedan,BlueViolet,58622
+364,2016,Subaru,Outback,SUV,BlueViolet,44069
+365,2016,FIAT,500,Hatchback,LightYellow,32347
+366,2011,Mitsubishi,Galant,Sedan,Fuchsia,53020
+367,2019,Mercedes-Benz,A-Class,Sedan,DarkSlateGray,17834
+368,2000,Dodge,Ram Van 3500,Van/Minivan,Orange,8886
+369,2000,Land Rover,Range Rover,SUV,Green,8357
+370,1994,Subaru,Loyale,Wagon,OrangeRed,26945
+371,2015,Lexus,CT,Hatchback,LightPink,5353
+372,2005,Dodge,Magnum,Wagon,DarkOrchid,59700
+373,2015,Nissan,Titan Crew Cab,Pickup,MidnightBlue,15705
+374,2011,BMW,X5 M,SUV,OliveDrab,59506
+375,2007,Mitsubishi,Eclipse,"Convertible, Coupe",Ivory,49809
+376,2013,Ram,3500 Regular Cab,Pickup,LightPink,37283
+377,2013,Ferrari,FF,Coupe,White,23820
+378,2006,GMC,Savana 2500 Cargo,Van/Minivan,MediumPurple,18706
+379,2018,GMC,Canyon Crew Cab,Pickup,Pink,55126
+380,2018,GMC,Sierra 1500 Double Cab,Pickup,Orange,31798
+381,2017,Mitsubishi,Mirage,Hatchback,AliceBlue,34643
+382,1999,Lincoln,Town Car,Sedan,BlanchedAlmond,9958
+383,2009,Hyundai,Accent,"Hatchback, Sedan",Turquoise,4659
+384,1995,Ford,F150 Super Cab,Pickup,FireBrick,22855
+385,1999,INFINITI,Q,Sedan,GoldenRod,26085
+386,2007,MAZDA,MAZDA5,Van/Minivan,Gray,46298
+387,2016,Maserati,Ghibli,Sedan,Olive,10008
+388,2003,Nissan,350Z,Coupe,MintCream,42126
+389,2016,Chevrolet,Silverado 1500 Crew Cab,Pickup,Khaki,32246
+390,2007,MINI,Cooper,Hatchback,WhiteSmoke,9006
+391,2015,Chevrolet,Silverado 2500 HD Double Cab,Pickup,DarkOrange,31184
+392,1999,BMW,7 Series,Sedan,DarkSlateBlue,23582
+393,2001,Chevrolet,Astro Passenger,Van/Minivan,SandyBrown,17295
+394,2007,Ford,Expedition EL,SUV,Yellow,11699
+395,2015,Lincoln,MKC,SUV,SeaShell,58392
+396,1994,Dodge,Colt,Sedan,Magenta,35788
+397,2000,BMW,Z8,Convertible,SlateGray,3284
+398,2011,Chevrolet,Silverado 1500 Regular Cab,Pickup,LightSeaGreen,28234
+399,2010,Mercedes-Benz,GLK-Class,SUV,Sienna,34823
+400,2008,Nissan,Pathfinder,SUV,LightSteelBlue,44343
+401,2018,Toyota,C-HR,SUV,DarkOrchid,59060
+402,1995,Suzuki,Esteem,Sedan,LightYellow,50638
+403,2004,Ford,Thunderbird,Convertible,Wheat,45254
+404,2018,BMW,M6,"Coupe, Convertible",DarkSlateGray,57242
+405,2011,Acura,TL,Sedan,PaleTurquoise,51356
+406,2016,Nissan,Murano,SUV,Peru,43375
+407,2012,Audi,Q7,SUV,MediumPurple,9318
+408,1997,Isuzu,Hombre Spacecab,Pickup,Olive,34796
+409,2004,Toyota,Sienna,Van/Minivan,MintCream,34459
+410,1993,Ford,Probe,Hatchback,Fuchsia,44331
+411,2015,MINI,Roadster,Convertible,SlateBlue,43417
+412,2000,MAZDA,626,Sedan,OliveDrab,38883
+413,2014,Lexus,IS,"Sedan, Convertible",LightSteelBlue,10772
+414,2004,Porsche,Cayenne,SUV,LightYellow,48430
+415,2002,Honda,CR-V,SUV,Moccasin,9336
+416,2013,Honda,Pilot,SUV,SteelBlue,47708
+417,2009,Nissan,Pathfinder,SUV,MediumSlateBlue,12649
+418,2005,Chrysler,Crossfire,"Coupe, Convertible",Azure,26008
+419,2012,Ford,Expedition,SUV,SlateGray,52271
+420,2003,Mercedes-Benz,C-Class,"Coupe, Sedan, Wagon",MediumPurple,29538
+421,2010,Ford,Explorer,SUV,Coral,21264
+422,2006,BMW,M3,"Convertible, Coupe",Tomato,41717
+423,2009,Hyundai,Azera,Sedan,Cyan,55862
+424,1999,Mitsubishi,Montero,SUV,Red,34924
+425,1997,HUMMER,H1,"SUV, Wagon",Blue,11695
+426,2014,Jeep,Grand Cherokee,SUV,Magenta,15978
+427,2016,Kia,Sedona,Van/Minivan,Navy,46546
+428,2007,Saab,3-Sep,"Wagon, Sedan, Convertible",DarkOliveGreen,57283
+429,1995,Dodge,Ram 2500 Club Cab,Pickup,MediumSpringGreen,24082
+430,2006,Lincoln,Mark LT,Pickup,LightSeaGreen,29702
+431,2000,Nissan,Xterra,SUV,Ivory,59396
+432,2004,Ford,Excursion,SUV,Navy,43822
+433,2016,Chevrolet,Colorado Crew Cab,Pickup,DodgerBlue,38011
+434,2012,Subaru,Tribeca,SUV,MediumOrchid,21667
+435,2002,Chevrolet,Venture Passenger,Van/Minivan,Tan,45475
+436,2016,Toyota,Prius v,Wagon,Fuchsia,59653
+437,2011,Mercedes-Benz,E-Class,"Coupe, Convertible, Sedan, Wagon",PaleVioletRed,38839
+438,1993,Lexus,ES,Sedan,PeachPuff,16081
+439,1998,GMC,1500 Regular Cab,Pickup,MediumVioletRed,39000
+440,1999,Toyota,4Runner,SUV,LightBlue,49662
+441,2016,MINI,Countryman,SUV,MediumSlateBlue,49019
+442,2012,Mitsubishi,Lancer,"Sedan, Hatchback",MediumPurple,54930
+443,2003,GMC,Envoy XL,SUV,Aqua,47109
+444,2003,INFINITI,G,"Sedan, Coupe",WhiteSmoke,51556
+445,1997,Lexus,GS,Sedan,ForestGreen,39004
+446,2012,Lamborghini,Aventador,Coupe,MintCream,19104
+447,2010,Mercedes-Benz,G-Class,SUV,Fuchsia,53013
+448,2012,Mercedes-Benz,M-Class,SUV,White,40836
+449,2020,GMC,Sierra 2500 HD Crew Cab,Pickup,Orange,21298
+450,2010,Nissan,Titan King Cab,Pickup,BlueViolet,54335
+451,2013,Aston Martin,Vantage,"Coupe, Convertible",Violet,6009
+452,2000,Isuzu,Trooper,SUV,DodgerBlue,29083
+453,2015,Audi,S4,Sedan,Thistle,7414
+454,2000,Chrysler,Grand Voyager,Van/Minivan,DarkSeaGreen,30030
+455,2012,Chevrolet,Colorado Crew Cab,Pickup,DodgerBlue,15106
+456,2000,BMW,Z3,"Convertible, Hatchback",Fuchsia,30306
+457,2002,GMC,Yukon XL 2500,SUV,OliveDrab,30386
+458,1996,Nissan,Quest,Van/Minivan,MediumSeaGreen,25319
+459,1999,Volkswagen,Cabrio (New),Convertible,LightSteelBlue,22750
+460,2017,Toyota,Yaris iA,Sedan,White,9509
+461,2006,Chevrolet,Silverado 1500 Extended Cab,Pickup,Bisque,58489
+462,1999,Toyota,Land Cruiser,SUV,Chocolate,12541
+463,2005,Mercedes-Benz,G-Class,SUV,Lime,27641
+464,2016,Hyundai,Veloster,Coupe,DarkKhaki,37390
+465,2018,Honda,Fit,Hatchback,LightBlue,50262
+466,1995,Mercury,Tracer,"Sedan, Wagon",Bisque,33773
+467,2011,Saab,9-4X,SUV,LightSteelBlue,42282
+468,2007,Toyota,Matrix,Wagon,LightGray,46665
+469,2009,Ford,F150 Super Cab,Pickup,BlueViolet,33361
+470,1998,Porsche,911,"Coupe, Convertible",PaleTurquoise,40568
+471,2010,Dodge,Ram 1500 Regular Cab,Pickup,MediumTurquoise,11891
+472,1993,Dodge,Ram Wagon B250,Van/Minivan,Gold,15208
+473,1998,Nissan,Sentra,Sedan,Ivory,46361
+474,1995,Chevrolet,3500 HD Regular Cab,Pickup,LavenderBlush,17293
+475,2000,GMC,Yukon,SUV,AliceBlue,37581
+476,1992,Dodge,Ram Wagon B150,Van/Minivan,AntiqueWhite,27096
+477,2017,Mercedes-Benz,Metris Passenger,Van/Minivan,LemonChiffon,10445
+478,2000,Acura,NSX,"Coupe, Convertible",PeachPuff,42429
+479,2006,Saturn,VUE,SUV,DeepSkyBlue,23950
+480,1996,Plymouth,Grand Voyager,Van/Minivan,MistyRose,2154
+481,2015,Ram,1500 Crew Cab,Pickup,PaleVioletRed,37388
+482,1993,Audi,Quattro,Sedan,SlateBlue,58238
+483,2006,Suzuki,Forenza,"Sedan, Wagon",Gainsboro,28060
+484,2012,Ford,Fusion,Sedan,PowderBlue,23356
+485,2010,Dodge,Ram 1500 Quad Cab,Pickup,MediumSeaGreen,59685
+486,1992,Mercury,Sable,"Sedan, Wagon",FireBrick,45928
+487,2011,Jeep,Wrangler,SUV,Purple,14586
+488,2000,Dodge,Caravan Passenger,Van/Minivan,PapayaWhip,5754
+489,2002,Volvo,V70,Wagon,MediumAquaMarine,46727
+490,2019,Toyota,Tundra Double Cab,Pickup,Gold,55756
+491,2004,Oldsmobile,Silhouette,Van/Minivan,Magenta,21162
+492,2019,Mercedes-Benz,Mercedes-AMG CLS,Sedan,LightGray,42116
+493,2012,Ford,Mustang,"Coupe, Convertible",IndianRed,18418
+494,2002,Volvo,C70,"Convertible, Coupe",SlateGray,5211
+495,2019,FIAT,500X,SUV,Plum,30234
+496,1997,Mercedes-Benz,C-Class,Sedan,MediumSeaGreen,21605
+497,2007,Mercedes-Benz,SLR McLaren,Coupe,Orchid,59595
+498,2000,Ford,Windstar Cargo,Van/Minivan,LimeGreen,10588
+499,2016,Chevrolet,Silverado 1500 Regular Cab,Pickup,Wheat,11591
+500,2016,Maserati,Quattroporte,Sedan,MediumSpringGreen,58170
+501,1995,Eagle,Vision,Sedan,PaleGreen,45141
+502,2016,Nissan,Altima,Sedan,GreenYellow,38804
+503,1995,Chevrolet,S10 Extended Cab,Pickup,PeachPuff,22921
+504,2015,Porsche,Cayman,Coupe,SlateGray,29051
+505,2008,Volkswagen,New Beetle,"Hatchback, Convertible",Fuchsia,26034
+506,1999,GMC,2500 Crew Cab,Pickup,Green,31562
+507,2002,Buick,Century,Sedan,Sienna,47881
+508,2012,Volkswagen,CC,Sedan,LightPink,45307
+509,1998,Toyota,Supra,Hatchback,Silver,51575
+510,2017,Volkswagen,e-Golf,Hatchback,DarkGoldenRod,36862
+511,2004,Porsche,Cayenne,SUV,DeepPink,43604
+512,2001,Lincoln,Continental,Sedan,YellowGreen,3282
+513,2018,Acura,ILX,Sedan,PaleGoldenRod,38388
+514,2014,Freightliner,Sprinter 3500 Cargo,Van/Minivan,DarkBlue,55100
+515,1995,Toyota,Previa,Van/Minivan,GreenYellow,54600
+516,1994,Chrysler,Town & Country,Van/Minivan,SandyBrown,23903
+517,2005,Nissan,Murano,SUV,MediumOrchid,17793
+518,1997,Oldsmobile,Bravada,SUV,Fuchsia,25792
+519,2014,Nissan,Pathfinder,SUV,Tomato,11248
+520,2006,BMW,7 Series,Sedan,DarkKhaki,31440
+521,1992,Chevrolet,Sportvan G10,Van/Minivan,HotPink,20648
+522,2008,Chevrolet,Express 3500 Passenger,Van/Minivan,FloralWhite,20393
+523,2014,Cadillac,ELR,Coupe,FireBrick,26376
+524,2004,Chevrolet,Suburban 1500,SUV,LimeGreen,51637
+525,2016,Mercedes-Benz,Mercedes-AMG GLE Coupe,SUV,Turquoise,45062
+526,2009,Ford,F150 Super Cab,Pickup,BlueViolet,38017
+527,2015,Rolls-Royce,Ghost,Sedan,DarkGray,27533
+528,2015,Toyota,Camry,Sedan,LightGray,19479
+529,1998,GMC,Yukon,SUV,HoneyDew,59688
+530,2005,Acura,NSX,Coupe,DarkGray,28019
+531,2011,Chevrolet,Aveo,"Hatchback, Sedan",DeepPink,48725
+532,2011,Porsche,Cayman,Coupe,LightSteelBlue,9658
+533,2017,Cadillac,ATS-V,"Sedan, Coupe",MediumTurquoise,58002
+534,2005,Chevrolet,Astro Passenger,Van/Minivan,PaleVioletRed,4708
+535,2000,Plymouth,Breeze,Sedan,Magenta,37558
+536,2003,INFINITI,G,"Sedan, Coupe",LightSeaGreen,41375
+537,2001,Hyundai,Santa Fe,SUV,LightSeaGreen,2605
+538,2018,Chrysler,Pacifica Hybrid,Van/Minivan,DarkMagenta,12646
+539,2006,Nissan,Frontier King Cab,Pickup,Snow,22722
+540,2007,Chevrolet,Silverado (Classic) 1500 Regular Cab,Pickup,LightYellow,22888
+541,2016,Ram,3500 Regular Cab,Pickup,DarkSlateGray,5097
+542,1992,Mercedes-Benz,500 SL,Convertible,Crimson,32741
+543,2020,Hyundai,Palisade,SUV,SteelBlue,16651
+544,1996,Toyota,RAV4,SUV,Lavender,26031
+545,1993,Dodge,Ram 50 Regular Cab,Pickup,PaleTurquoise,31251
+546,2017,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,BlueViolet,54912
+547,1996,Dodge,Avenger,Coupe,Lime,26489
+548,2015,Lincoln,Navigator L,SUV,LightSkyBlue,58092
+549,2012,Maybach,62,Sedan,CadetBlue,42265
+550,2003,Chevrolet,Avalanche 2500,Pickup,DarkSeaGreen,34658
+551,2019,Ford,Taurus,Sedan,DarkGray,21579
+552,2000,Chevrolet,Astro Cargo,Van/Minivan,DarkMagenta,48620
+553,2017,Nissan,NV3500 HD Passenger,Van/Minivan,DarkRed,35492
+554,2018,Audi,S8,Sedan,Thistle,58999
+555,2011,Chevrolet,Avalanche,SUV,Lime,1852
+556,2009,BMW,M6,"Coupe, Convertible",SlateBlue,29946
+557,1998,Jeep,Wrangler,SUV,PeachPuff,29814
+558,2018,Rolls-Royce,Ghost,Sedan,Chocolate,56798
+559,1996,Chevrolet,Corsica,Sedan,Navy,5022
+560,2014,Dodge,Avenger,Sedan,LemonChiffon,33988
+561,2018,FIAT,500L,Hatchback,Salmon,44061
+562,1992,Chevrolet,G-Series G30,Van/Minivan,LavenderBlush,7771
+563,2005,Jeep,Wrangler,SUV,MediumBlue,5679
+564,1998,Jeep,Cherokee,SUV,White,47247
+565,1995,Pontiac,Grand Am,"Coupe, Sedan",LightBlue,43910
+566,2013,FIAT,500,"Hatchback, Convertible",Peru,27076
+567,2015,Mercedes-Benz,B-Class,Hatchback,Pink,25545
+568,2019,INFINITI,QX80,SUV,MediumBlue,17549
+569,1995,Acura,Integra,"Sedan, Hatchback",Red,36464
+570,1992,Chevrolet,S10 Blazer,SUV,Indigo,33948
+571,2010,Lotus,Evora,Coupe,IndianRed,51135
+572,2016,Hyundai,Azera,Sedan,Khaki,38561
+573,2014,GMC,Sierra 3500 HD Regular Cab,Pickup,DarkKhaki,2516
+574,2012,Nissan,Quest,Van/Minivan,SaddleBrown,25601
+575,2004,Oldsmobile,Bravada,SUV,PaleGoldenRod,37993
+576,2013,INFINITI,JX,SUV,Gold,30725
+577,2010,Porsche,Boxster,Convertible,Purple,8686
+578,2017,Nissan,TITAN XD King Cab,Pickup,Magenta,1086
+579,1995,Mitsubishi,Expo,Wagon,LightBlue,25524
+580,2018,Buick,Cascada,Convertible,CornflowerBlue,30178
+581,2019,Hyundai,Accent,Sedan,Silver,23469
+582,1993,HUMMER,H1,SUV,WhiteSmoke,41787
+583,2011,Land Rover,Range Rover,SUV,PeachPuff,27419
+584,1998,Chrysler,Concorde,Sedan,MintCream,18419
+585,2011,Ford,Escape,SUV,DarkSalmon,8611
+586,2018,Ford,F350 Super Duty Super Cab,Pickup,BlanchedAlmond,9188
+587,2017,MAZDA,CX-3,SUV,Olive,15188
+588,2009,Acura,MDX,SUV,LawnGreen,48494
+589,1992,Oldsmobile,Silhouette,Van/Minivan,LightCyan,52792
+590,2000,GMC,Sierra (Classic) 2500 Crew Cab,Pickup,Snow,26822
+591,2018,MINI,Hardtop 2 Door,Hatchback,Magenta,24734
+592,2002,GMC,Yukon,SUV,MidnightBlue,54955
+593,2012,Mitsubishi,Eclipse,"Coupe, Convertible",Ivory,31982
+594,2000,Mercedes-Benz,M-Class,SUV,CadetBlue,8907
+595,2011,Chevrolet,Traverse,SUV,Ivory,15639
+596,2012,Hyundai,Genesis,Sedan,HoneyDew,6598
+597,2008,Ford,F350 Super Duty Super Cab,Pickup,GhostWhite,21706
+598,2013,Subaru,Outback,Wagon,SlateGray,36550
+599,2019,Ford,Flex,SUV,MidnightBlue,30249
+600,1996,Mercury,Mystique,Sedan,SlateBlue,9773
+601,2010,Nissan,Altima,"Sedan, Coupe",Silver,48278
+602,2004,Acura,TL,Sedan,GoldenRod,40476
+603,2013,Cadillac,XTS,Sedan,SlateBlue,50102
+604,2005,Toyota,Celica,Hatchback,Lime,21804
+605,2019,Subaru,Outback,SUV,LightGoldenRodYellow,27454
+606,2013,Nissan,LEAF,Hatchback,SlateGray,21301
+607,1993,Mercury,Topaz,"Sedan, Coupe",NavajoWhite,48524
+608,2005,Audi,S4,"Convertible, Wagon, Sedan",HotPink,49238
+609,2019,Chevrolet,Express 3500 Cargo,Van/Minivan,OldLace,21894
+610,2001,Ford,Explorer Sport Trac,Pickup,LightSkyBlue,56769
+611,2004,Honda,Accord,"Sedan, Coupe",MediumSeaGreen,40475
+612,1995,Chevrolet,Impala,Sedan,SandyBrown,35367
+613,1993,Mercedes-Benz,190 E,Sedan,RoyalBlue,39423
+614,2009,Mercury,Milan,Sedan,Beige,35141
+615,2006,Chevrolet,Express 3500 Passenger,Van/Minivan,Snow,20470
+616,1996,GMC,Savana 3500 Passenger,Van/Minivan,Brown,32217
+617,2019,Buick,Regal Sportback,Sedan,Olive,30463
+618,2004,Chevrolet,Silverado 1500 Regular Cab,Pickup,MistyRose,39510
+619,2016,GMC,Savana 3500 Cargo,Van/Minivan,RosyBrown,22030
+620,2007,Jaguar,X-Type,"Sedan, Wagon",DarkSeaGreen,29096
+621,2015,Ford,Transit 350 HD Van,Van/Minivan,LightYellow,15910
+622,2008,Nissan,Titan King Cab,Pickup,OldLace,32810
+623,2008,Chevrolet,HHR,Wagon,Moccasin,32570
+624,2013,Hyundai,Sonata,Sedan,DarkSeaGreen,19272
+625,2004,Nissan,Frontier King Cab,Pickup,HotPink,19877
+626,2006,Subaru,Baja,Pickup,LightBlue,50766
+627,2006,Volkswagen,Rabbit,Hatchback,DarkSeaGreen,20705
+628,2006,Dodge,Ram 3500 Mega Cab,Pickup,Gainsboro,47269
+629,2018,Jaguar,XJ,Sedan,Maroon,31852
+630,2009,Volvo,XC70,Wagon,Indigo,34481
+631,1998,Nissan,Sentra,Sedan,AliceBlue,48528
+632,2003,Toyota,RAV4,SUV,FireBrick,56136
+633,2002,Saturn,S-Series,"Coupe, Sedan",ForestGreen,6757
+634,2014,GMC,Sierra 2500 HD Regular Cab,Pickup,LightSkyBlue,45339
+635,1999,INFINITI,Q,Sedan,IndianRed,35755
+636,1996,GMC,1500 Regular Cab,Pickup,LightCoral,9148
+637,2019,Chevrolet,Suburban,SUV,LightSlateGray,1755
+638,2001,Ford,Econoline E350 Super Duty Cargo,Van/Minivan,PaleGoldenRod,58254
+639,2015,GMC,Acadia,SUV,Snow,6500
+640,2015,MAZDA,MAZDA3,"Sedan, Hatchback",LightSlateGray,13710
+641,2005,Dodge,Grand Caravan Cargo,Van/Minivan,GoldenRod,35900
+642,2017,INFINITI,QX60,SUV,DarkGreen,28477
+643,2002,Pontiac,Bonneville,Sedan,Bisque,59905
+644,1993,Plymouth,Grand Voyager,Van/Minivan,Aqua,7816
+645,2014,Ford,F450 Super Duty Crew Cab,Pickup,Gold,49015
+646,2007,MAZDA,MAZDA3,"Sedan, Hatchback",BurlyWood,26069
+647,2012,Ford,Edge,SUV,White,52967
+648,2012,MINI,Clubman,Hatchback,DeepPink,6645
+649,2019,Mercedes-Benz,Mercedes-AMG GLA,SUV,RoyalBlue,42670
+650,2000,GMC,Sierra (Classic) 2500 HD Regular Cab,Pickup,LightCyan,39220
+651,2016,Tesla,Model X,SUV,Cornsilk,18968
+652,1995,Alfa Romeo,164,Sedan,MintCream,10578
+653,2010,Kia,Soul,Wagon,Navy,36065
+654,1992,Lincoln,Town Car,Sedan,MediumSlateBlue,5961
+655,2018,Ram,2500 Crew Cab,Pickup,Yellow,31727
+656,2010,Lincoln,MKX,SUV,LawnGreen,22091
+657,2018,GMC,Sierra 1500 Regular Cab,Pickup,Maroon,20277
+658,1995,Audi,A6,"Wagon, Sedan",Bisque,47926
+659,2003,Toyota,Echo,Sedan,Tan,56040
+660,2002,Porsche,911,"Coupe, Convertible",CadetBlue,48896
+661,2017,GMC,Canyon Crew Cab,Pickup,DarkBlue,7984
+662,1993,GMC,2500 Club Coupe,Pickup,Green,22072
+663,2004,Dodge,Neon,Sedan,DarkRed,48677
+664,2007,Saab,9-7X,SUV,HoneyDew,28481
+665,2008,Ford,Mustang,"Coupe, Convertible",SteelBlue,31828
+666,2001,Nissan,Quest,Van/Minivan,Orange,11940
+667,2010,Hyundai,Genesis,Sedan,GhostWhite,15317
+668,2006,Nissan,Frontier King Cab,Pickup,LemonChiffon,46314
+669,2006,Ford,E350 Super Duty Passenger,Van/Minivan,DimGray,4110
+670,1997,Ford,F250 Crew Cab,Pickup,GhostWhite,20920
+671,1993,Chevrolet,Caprice Classic,"Sedan, Wagon",Thistle,52240
+672,2003,BMW,X5,SUV,SaddleBrown,3089
+673,2018,Toyota,Avalon,Sedan,YellowGreen,4809
+674,2002,Oldsmobile,Silhouette,Van/Minivan,Beige,14767
+675,2017,Honda,CR-V,SUV,PaleTurquoise,47339
+676,2006,Suzuki,Verona,Sedan,BurlyWood,27810
+677,2020,BMW,7 Series,Sedan,Ivory,58714
+678,2010,Chevrolet,Camaro,Coupe,GreenYellow,41839
+679,2019,Ford,Transit 350 Van,Van/Minivan,Tan,56346
+680,2017,Ford,Transit 350 Wagon,Van/Minivan,MediumSpringGreen,18571
+681,2009,Toyota,Prius,Hatchback,Tan,41833
+682,2005,Mitsubishi,Endeavor,SUV,DarkOrange,3019
+683,1993,Ford,Ranger Super Cab,Pickup,Peru,32748
+684,2006,Toyota,4Runner,SUV,AliceBlue,43465
+685,2006,MAZDA,MAZDA6,"Sedan, Hatchback, Wagon",SlateGray,2241
+686,2003,Dodge,Dakota Quad Cab,Pickup,Azure,8659
+687,1998,Ford,Expedition,SUV,MediumSeaGreen,38869
+688,2007,Volvo,S40,Sedan,LightSeaGreen,16511
+689,1995,MAZDA,MX-6,Coupe,SaddleBrown,32612
+690,2004,Lexus,LS,Sedan,BurlyWood,44118
+691,2020,Honda,Accord Hybrid,Sedan,AliceBlue,52228
+692,2013,Audi,S5,"Coupe, Convertible",Crimson,52718
+693,2004,Jaguar,X-Type,Sedan,BlueViolet,2180
+694,2007,Audi,A6,"Sedan, Wagon",Salmon,2403
+695,2010,Mercury,Mariner,SUV,Turquoise,10623
+696,1997,Chevrolet,3500 Crew Cab,Pickup,Crimson,7435
+697,1993,Mitsubishi,Diamante,"Sedan, Wagon",Turquoise,3840
+698,1992,Cadillac,Seville,Sedan,DarkSlateGray,55012
+699,2013,Lexus,LX,SUV,SkyBlue,21340
+700,2008,BMW,3 Series,"Sedan, Coupe, Wagon, Convertible",MediumVioletRed,44916
+701,2017,Hyundai,Santa Fe Sport,SUV,MediumSlateBlue,11188
+702,2001,GMC,Sierra 2500 HD Extended Cab,Pickup,LightSlateGray,58317
+703,2003,GMC,Safari Cargo,Van/Minivan,ForestGreen,5236
+704,1999,Ford,F350 Super Duty Super Cab,Pickup,Gold,54626
+705,1994,Chevrolet,Sportvan G30,Van/Minivan,LightPink,39905
+706,2015,Mercedes-Benz,GL-Class,SUV,SlateGray,17447
+707,2005,Saturn,Relay,Van/Minivan,Beige,26325
+708,1994,Nissan,Quest,Van/Minivan,MediumPurple,7182
+709,2008,Toyota,Tacoma Access Cab,Pickup,DarkGray,47970
+710,1994,Acura,NSX,Coupe,WhiteSmoke,24917
+711,2006,Mercedes-Benz,R-Class,Wagon,SandyBrown,45663
+712,2005,Chevrolet,Equinox,SUV,LightSteelBlue,1070
+713,2010,Honda,Fit,Hatchback,GoldenRod,3504
+714,2011,Mitsubishi,Eclipse,"Coupe, Convertible",Chocolate,33803
+715,2017,Land Rover,Discovery,SUV,Violet,41091
+716,1995,Buick,Roadmaster,"Sedan, Wagon",FireBrick,2959
+717,2004,Acura,TSX,Sedan,Navy,7466
+718,2012,Porsche,911,"Coupe, Convertible",MediumOrchid,27334
+719,2016,Volvo,XC90,SUV,DarkSlateGray,58263
+720,2014,FIAT,500c,Convertible,MediumBlue,38132
+721,2009,BMW,M5,Sedan,DarkCyan,21755
+722,2017,Kia,Rio,"Sedan, Hatchback",LightSkyBlue,58084
+723,2005,GMC,Sierra 1500 Extended Cab,Pickup,HotPink,15276
+724,2017,INFINITI,Q50,Sedan,DarkSalmon,14745
+725,2008,MAZDA,MAZDA5,Van/Minivan,Bisque,3500
+726,2018,Toyota,Highlander,SUV,DarkViolet,53620
+727,1993,Chevrolet,Suburban 2500,SUV,Black,24608
+728,2020,Ford,Explorer,SUV,DarkViolet,41542
+729,2005,Saturn,Ion,"Sedan, Coupe",OliveDrab,10301
+730,2011,Ford,Edge,SUV,Maroon,39495
+731,2013,Suzuki,Kizashi,Sedan,Ivory,38520
+732,2014,MINI,Paceman,Hatchback,Aqua,35043
+733,2009,Ford,F150 Regular Cab,Pickup,PaleGreen,25061
+734,1998,GMC,Jimmy,SUV,PapayaWhip,4092
+735,2015,INFINITI,Q40,Sedan,DimGray,19780
+736,2012,Ford,F150 Regular Cab,Pickup,LightGoldenRodYellow,25992
+737,2013,Cadillac,Escalade EXT,Pickup,Orange,15383
+738,2002,Mercedes-Benz,CL-Class,Coupe,Orange,19787
+739,2006,Volvo,S60,Sedan,DarkRed,58826
+740,2020,Honda,Pilot,SUV,MediumSpringGreen,22413
+741,1994,Ford,F150 Super Cab,Pickup,LavenderBlush,19713
+742,2009,Volkswagen,Touareg 2,SUV,Maroon,42100
+743,2017,Porsche,718 Boxster,Convertible,Azure,54011
+744,2015,Dodge,Dart,Sedan,SandyBrown,33426
+745,2014,Ford,E250 Cargo,Van/Minivan,PaleTurquoise,7828
+746,1998,Hyundai,Accent,"Hatchback, Sedan",Olive,3068
+747,2007,BMW,Z4 M,"Coupe, Convertible",BlueViolet,48916
+748,1993,Chevrolet,S10 Blazer,SUV,MediumBlue,55585
+749,2007,Kia,Rio,"Sedan, Hatchback",Salmon,48898
+750,1992,Hyundai,Scoupe,Coupe,DeepSkyBlue,4186
+751,2020,Nissan,NV1500 Cargo,Van/Minivan,Plum,51006
+752,2001,Mercury,Villager,Van/Minivan,LightSeaGreen,14056
+753,1993,Porsche,968,"Coupe, Convertible",Wheat,20966
+754,1995,GMC,Rally Wagon G2500,Van/Minivan,AliceBlue,46891
+755,2018,Cadillac,Escalade ESV,SUV,DarkBlue,59794
+756,2001,Ford,F350 Super Duty Super Cab,Pickup,PaleVioletRed,36415
+757,2018,Toyota,Mirai,Sedan,DarkOrange,20510
+758,2019,Mercedes-Benz,SL,Convertible,Salmon,26871
+759,2020,Chevrolet,Traverse,SUV,Tomato,25244
+760,2017,Acura,NSX,Coupe,Tan,39978
+761,2017,Hyundai,Veloster,Coupe,LightSeaGreen,42327
+762,2018,Chevrolet,Express 2500 Passenger,Van/Minivan,DarkSlateGray,8501
+763,2002,Dodge,Intrepid,Sedan,Salmon,35302
+764,2006,Volvo,XC70,Wagon,Tan,15027
+765,2013,Mercedes-Benz,Sprinter 2500 Cargo,Van/Minivan,LightSteelBlue,10322
+766,2016,Kia,K900,Sedan,GhostWhite,36459
+767,2016,Buick,Regal,Sedan,FloralWhite,5332
+768,2006,HUMMER,H1,"Wagon, SUV",Red,30095
+769,2017,Nissan,NV1500 Cargo,Van/Minivan,DarkGoldenRod,31861
+770,2020,Cadillac,XT6,SUV,Salmon,35702
+771,2017,Jeep,Wrangler,SUV,DarkKhaki,45795
+772,1992,GMC,Safari Cargo,Van/Minivan,SeaShell,1875
+773,2001,Chrysler,Prowler,Convertible,Gray,39582
+774,2001,Dodge,Ram Wagon 3500,Van/Minivan,LightPink,20382
+775,2013,Volvo,S60,Sedan,Linen,15106
+776,2015,Chevrolet,Silverado 1500 Double Cab,Pickup,Coral,10192
+777,1997,Ford,Crown Victoria,Sedan,GreenYellow,48383
+778,1992,Plymouth,Grand Voyager,Van/Minivan,LightSalmon,3668
+779,1999,Acura,CL,Coupe,MediumTurquoise,40979
+780,1993,GMC,Sonoma Club Coupe Cab,Pickup,MediumAquaMarine,59902
+781,1998,Dodge,Viper,"Convertible, Coupe",ForestGreen,58834
+782,2005,MAZDA,MAZDA3,"Sedan, Hatchback",White,36181
+783,2017,Acura,MDX Sport Hybrid,SUV,Plum,22528
+784,2001,Mercury,Mountaineer,SUV,Coral,25372
+785,2005,Cadillac,DeVille,Sedan,LightSteelBlue,41475
+786,1992,MAZDA,B-Series Regular Cab,Pickup,Teal,48069
+787,2002,Dodge,Neon,Sedan,Cyan,28320
+788,2013,GMC,Sierra 1500 Crew Cab,Pickup,Peru,37360
+789,2010,Chevrolet,Silverado 1500 Crew Cab,Pickup,Sienna,42012
+790,2002,Ford,F350 Super Duty Super Cab,Pickup,BurlyWood,51035
+791,2004,Subaru,Baja,Pickup,PeachPuff,20722
+792,2002,Buick,Rendezvous,SUV,RoyalBlue,48688
+793,2000,INFINITI,QX,SUV,IndianRed,29182
+794,2019,Nissan,NV200,Van/Minivan,SlateBlue,45363
+795,2014,BMW,M5,Sedan,PaleTurquoise,35389
+796,2017,McLaren,570GT,Coupe,DarkSalmon,45032
+797,2010,Toyota,Tacoma Double Cab,Pickup,PaleGoldenRod,46376
+798,2014,Toyota,FJ Cruiser,SUV,LightGreen,32111
+799,2012,GMC,Sierra 2500 HD Crew Cab,Pickup,PaleVioletRed,59210
+800,1995,Mitsubishi,Eclipse,Hatchback,Orchid,25500
+801,1999,Chevrolet,Tracker,SUV,Red,48753
+802,2004,Chevrolet,Suburban 2500,SUV,LawnGreen,22247
+803,2017,Ford,C-MAX Energi,Wagon,Cyan,6460
+804,1996,Mitsubishi,Mighty Max Regular Cab,Pickup,Chocolate,55881
+805,1999,Dodge,Ram Van 2500,Van/Minivan,HoneyDew,36181
+806,1998,Ford,F150 Super Cab,Pickup,MistyRose,26291
+807,1999,Ford,Econoline E350 Super Duty Passenger,Van/Minivan,Moccasin,45719
+808,2011,Ford,Expedition,SUV,Beige,7590
+809,2020,Nissan,Rogue,SUV,DarkGoldenRod,28437
+810,2003,Porsche,911,"Convertible, Coupe",Wheat,21081
+811,2009,Aston Martin,DBS,"Coupe, Convertible",MediumTurquoise,17178
+812,1994,Chevrolet,Lumina Cargo,Van/Minivan,Gray,46148
+813,2014,Nissan,Maxima,Sedan,PaleGreen,19045
+814,1999,Chrysler,LHS,Sedan,Fuchsia,30177
+815,2019,FIAT,500L,Hatchback,DarkSeaGreen,2297
+816,1993,MAZDA,B-Series Cab Plus,Pickup,PaleGreen,6226
+817,2000,Nissan,Sentra,Sedan,Aqua,4642
+818,2011,Honda,Pilot,SUV,Indigo,8832
+819,2016,Lexus,RC,Coupe,SpringGreen,49876
+820,2016,Buick,Envision,SUV,LightCyan,41785
+821,1999,GMC,2500 HD Regular Cab,Pickup,DarkSalmon,39496
+822,1992,Buick,Regal,"Coupe, Sedan",BlueViolet,49934
+823,2001,GMC,Yukon,SUV,PowderBlue,5714
+824,2020,Porsche,Panamera,Sedan,LightYellow,46449
+825,2014,Ford,Transit Connect Passenger,Van/Minivan,Fuchsia,59399
+826,2019,Tesla,Model 3,Sedan,DarkGreen,16449
+827,2015,Land Rover,LR4,SUV,RosyBrown,33436
+828,1999,Nissan,Pathfinder,SUV,PaleGoldenRod,1328
+829,2003,Dodge,Ram 1500 Quad Cab,Pickup,Gray,45980
+830,1996,MAZDA,626,Sedan,Gold,44564
+831,2018,Porsche,Cayenne,SUV,SkyBlue,9760
+832,2013,Suzuki,Kizashi,Sedan,PaleGoldenRod,23282
+833,2005,Toyota,4Runner,SUV,Aquamarine,52387
+834,2018,Honda,Civic,"Coupe, Hatchback, Sedan",Chocolate,11980
+835,2020,Toyota,RAV4 Hybrid,SUV,DarkMagenta,4531
+836,2008,Mercedes-Benz,C-Class,Sedan,Linen,59556
+837,2011,Nissan,Armada,SUV,Olive,44892
+838,2011,GMC,Sierra 1500 Crew Cab,Pickup,MediumOrchid,13738
+839,2013,Hyundai,Genesis,Sedan,RoyalBlue,12085
+840,2013,Lincoln,MKZ,Sedan,AntiqueWhite,24449
+841,2000,GMC,Savana 1500 Cargo,Van/Minivan,LightCyan,53389
+842,1993,Mercedes-Benz,190 E,Sedan,LavenderBlush,6494
+843,2007,Toyota,RAV4,SUV,Maroon,55906
+844,1992,Acura,Vigor,Sedan,DarkGray,1118
+845,2007,Ford,Fusion,Sedan,DarkSalmon,42584
+846,2012,Lexus,ES,Sedan,CadetBlue,46796
+847,1994,Ford,Mustang,"Coupe, Convertible",Salmon,58047
+848,2014,Mercedes-Benz,GL-Class,SUV,LightSkyBlue,52977
+849,2000,Chevrolet,Cavalier,"Coupe, Sedan, Convertible",MediumVioletRed,22938
+850,2020,Porsche,911,Convertible,SpringGreen,52405
+851,2006,Maybach,62,Sedan,SeaGreen,25231
+852,2008,Land Rover,LR3,SUV,MediumOrchid,23588
+853,2008,GMC,Sierra 3500 HD Crew Cab,Pickup,Salmon,24291
+854,2019,Mercedes-Benz,Metris Cargo,Van/Minivan,AliceBlue,25019
+855,2005,GMC,Sierra 2500 HD Regular Cab,Pickup,Azure,25650
+856,2006,Acura,RSX,Coupe,BlueViolet,24920
+857,1996,Isuzu,Oasis,Van/Minivan,LavenderBlush,14535
+858,2019,Mercedes-Benz,Mercedes-AMG GT,"Coupe, Sedan, Convertible",SeaGreen,45528
+859,2019,BMW,X2,SUV,MistyRose,1816
+860,2004,Lincoln,Navigator,SUV,Plum,31786
+861,2001,Ford,Focus,"Sedan, Hatchback, Wagon",DarkOliveGreen,23577
+862,1993,Ford,F250 Super Cab,Pickup,LightSkyBlue,14513
+863,2012,BMW,X6,SUV,Wheat,24525
+864,2014,Mercedes-Benz,Sprinter 2500 Passenger,Van/Minivan,Sienna,35686
+865,2016,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,Violet,7336
+866,2005,Honda,Insight,Hatchback,DarkSalmon,38466
+867,1996,Oldsmobile,Bravada,SUV,Sienna,47657
+868,2019,Maserati,Levante,SUV,DarkGreen,6424
+869,1993,Mercedes-Benz,500 SL,Convertible,AliceBlue,3225
+870,2016,Volkswagen,Golf GTI,Hatchback,Black,57437
+871,2010,Bentley,Continental,"Convertible, Sedan, Coupe",PeachPuff,18649
+872,2006,Nissan,Xterra,SUV,Thistle,58588
+873,2008,Volkswagen,GLI,Sedan,Turquoise,56611
+874,2008,Lexus,ES,Sedan,SaddleBrown,27640
+875,2014,Chevrolet,Silverado 1500 Crew Cab,Pickup,Gray,13478
+876,2012,INFINITI,M,Sedan,MediumSlateBlue,14799
+877,1998,Toyota,RAV4,SUV,DarkOrange,17678
+878,2013,Lexus,RX,SUV,Aquamarine,12188
+879,1998,Honda,Prelude,Coupe,NavajoWhite,9073
+880,2004,Cadillac,Seville,Sedan,LightCyan,10832
+881,2005,Pontiac,Montana,Van/Minivan,SkyBlue,41947
+882,2007,Saab,5-Sep,"Sedan, Wagon",OldLace,35075
+883,2016,Ram,1500 Crew Cab,Pickup,ForestGreen,21368
+884,2014,Chevrolet,Spark EV,Hatchback,WhiteSmoke,1703
+885,2008,Saab,9-7X,SUV,DarkSlateGray,53525
+886,2010,Chevrolet,Tahoe,SUV,IndianRed,6247
+887,1998,BMW,7 Series,Sedan,Chocolate,36789
+888,1995,Nissan,Pathfinder,SUV,LightGoldenRodYellow,19646
+889,2005,Toyota,Corolla,Sedan,LightSkyBlue,10522
+890,2002,Chrysler,Prowler,Convertible,BlanchedAlmond,16126
+891,2011,Chevrolet,Suburban 2500,SUV,Linen,20308
+892,1992,Chevrolet,Suburban 1500,SUV,BlanchedAlmond,50831
+893,2020,Toyota,Avalon Hybrid,Sedan,DarkCyan,33666
+894,1996,GMC,Safari Passenger,Van/Minivan,LightGoldenRodYellow,28251
+895,1995,Chevrolet,Lumina Cargo,Van/Minivan,Crimson,25416
+896,1999,Chevrolet,Silverado 1500 Extended Cab,Pickup,DarkCyan,32482
+897,2006,Volvo,C70,Convertible,PaleTurquoise,35739
+898,2020,Mercedes-Benz,GLS,SUV,SeaShell,55145
+899,2007,Nissan,Titan King Cab,Pickup,Violet,23488
+900,2012,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,Green,44513
+901,2003,Chevrolet,Silverado 2500 Regular Cab,Pickup,MintCream,19141
+902,2014,Aston Martin,Rapide S,Sedan,LightSalmon,30729
+903,1994,INFINITI,Q,Sedan,MediumTurquoise,29654
+904,2012,Chevrolet,Express 1500 Cargo,Van/Minivan,Cyan,41746
+905,2012,MINI,Roadster,Convertible,LightSeaGreen,42345
+906,1998,Nissan,Sentra,Sedan,WhiteSmoke,5347
+907,1998,Plymouth,Voyager,Van/Minivan,IndianRed,50424
+908,2003,GMC,Yukon XL 1500,SUV,PaleTurquoise,52800
+909,2002,Jaguar,S-Type,Sedan,DarkViolet,56181
+910,2013,BMW,3 Series,"Convertible, Sedan, Coupe",Orchid,6651
+911,1999,Lexus,RX,SUV,PeachPuff,43332
+912,2018,FIAT,500X,SUV,GreenYellow,19541
+913,2006,Dodge,Caravan Passenger,Van/Minivan,DarkGray,19122
+914,2019,Acura,MDX Sport Hybrid,SUV,DodgerBlue,25036
+915,1999,Ford,F350 Super Duty Regular Cab,Pickup,LightCoral,59346
+916,2014,Acura,MDX,SUV,LightGray,1738
+917,2010,GMC,Canyon Regular Cab,Pickup,BlueViolet,6290
+918,2003,Lincoln,Town Car,Sedan,OldLace,56479
+919,2017,Lincoln,MKZ,Sedan,SandyBrown,22169
+920,1992,Dodge,Stealth,Hatchback,DarkBlue,46047
+921,2007,Audi,S8,Sedan,WhiteSmoke,9977
+922,1993,Nissan,Quest,Van/Minivan,RosyBrown,37924
+923,2006,Chevrolet,Silverado 1500 HD Crew Cab,Pickup,MediumBlue,24945
+924,2001,Nissan,Altima,Sedan,Gray,42821
+925,1996,GMC,3500 Crew Cab,Pickup,DarkTurquoise,52461
+926,2015,Ford,Transit Connect Passenger,Van/Minivan,SlateBlue,15424
+927,2007,Chevrolet,Aveo,"Sedan, Hatchback",LightYellow,55827
+928,2014,Mercedes-Benz,GLK-Class,SUV,RoyalBlue,44382
+929,2005,Ford,Explorer,SUV,Linen,7685
+930,2004,GMC,Envoy XL,SUV,DarkRed,21710
+931,2020,Land Rover,Range Rover Sport,SUV,LightSkyBlue,45353
+932,2005,Chrysler,Crossfire,"Coupe, Convertible",MediumTurquoise,56314
+933,2015,Porsche,Cayman,Coupe,Tomato,58474
+934,2005,Nissan,Titan Crew Cab,Pickup,DarkGoldenRod,25405
+935,1992,Saab,9000,"Sedan, Hatchback",LightSalmon,52260
+936,2004,GMC,Sierra 2500 Crew Cab,Pickup,DarkGray,18511
+937,2018,Audi,RS 7,Sedan,MediumTurquoise,48490
+938,2019,Hyundai,NEXO,SUV,Sienna,50850
+939,2006,Chevrolet,Corvette,"Coupe, Convertible",Orchid,20360
+940,1996,Pontiac,Grand Am,"Sedan, Coupe",MediumSpringGreen,56548
+941,2007,Buick,LaCrosse,Sedan,HoneyDew,49415
+942,2018,BMW,3 Series,"Sedan, Wagon",BurlyWood,41581
+943,2009,Kia,Amanti,Sedan,LightGoldenRodYellow,25833
+944,2013,BMW,3 Series,"Convertible, Sedan, Coupe",Gold,7965
+945,2020,Mercedes-Benz,CLA,Sedan,DarkViolet,51102
+946,2010,Chevrolet,Express 3500 Passenger,Van/Minivan,PaleGoldenRod,10817
+947,1995,Lexus,GS,Sedan,LightPink,49941
+948,2012,Cadillac,Escalade EXT,Pickup,SlateBlue,39077
+949,2018,Ferrari,488 GTB,Coupe,Gold,15357
+950,1994,Mercury,Sable,"Wagon, Sedan",MediumTurquoise,17210
+951,1995,Plymouth,Acclaim,Sedan,Maroon,19224
+952,2002,Chrysler,Sebring,"Sedan, Convertible, Coupe",PowderBlue,5522
+953,2012,Mercedes-Benz,GL-Class,SUV,SteelBlue,35311
+954,1995,Suzuki,Esteem,Sedan,SkyBlue,39898
+955,2009,Kia,Rio,"Sedan, Hatchback",Blue,16813
+956,2000,Volvo,S80,Sedan,Black,1711
+957,1993,Volvo,960,"Sedan, Wagon",Lime,52420
+958,2008,Aston Martin,DBS,Coupe,Turquoise,39676
+959,2001,Pontiac,Aztek,SUV,DimGray,28310
+960,2009,Audi,S4,Convertible,MediumTurquoise,1051
+961,2015,Hyundai,Elantra,Sedan,CornflowerBlue,24763
+962,1996,Toyota,Celica,"Hatchback, Convertible, Coupe",DarkCyan,27037
+963,1994,GMC,Vandura 3500,Van/Minivan,DarkOliveGreen,13814
+964,1994,Oldsmobile,Silhouette,Van/Minivan,Green,39893
+965,2000,GMC,Sierra (Classic) 3500 Extended Cab,Pickup,AntiqueWhite,20849
+966,2015,Nissan,Murano,SUV,AliceBlue,43459
+967,2011,Lexus,ES,Sedan,DarkGoldenRod,30841
+968,2008,Scion,xD,Hatchback,PaleVioletRed,29545
+969,2008,Chevrolet,Suburban 1500,SUV,MediumSlateBlue,8869
+970,2010,Mercedes-Benz,S-Class,Sedan,RosyBrown,47368
+971,1993,Toyota,Previa,Van/Minivan,White,29182
+972,2013,Mercedes-Benz,SLK-Class,Convertible,Maroon,29248
+973,2011,Audi,A4,"Sedan, Wagon",PaleGreen,56022
+974,2015,BMW,X3,SUV,Chocolate,46672
+975,2016,Mercedes-Benz,SLK,Convertible,DarkGray,51097
+976,1997,Mitsubishi,Eclipse,"Coupe, Convertible",DarkRed,54726
+977,1993,GMC,3500 Regular Cab,Pickup,SlateBlue,8503
+978,2015,Lexus,CT,Hatchback,DarkSalmon,19122
+979,2011,Maybach,57,Sedan,PaleGreen,55589
+980,2016,Mercedes-Benz,Mercedes-AMG GT,Coupe,DarkGray,21395
+981,2013,Chevrolet,Spark,Hatchback,SeaGreen,6691
+982,2002,Volkswagen,Jetta,"Sedan, Wagon",OldLace,55995
+983,1997,Dodge,Avenger,Coupe,MistyRose,20138
+984,2011,Acura,TSX,"Sedan, Wagon",Plum,47451
+985,2001,BMW,Z8,Convertible,Chocolate,20774
+986,2013,Mercedes-Benz,Sprinter 3500 Cargo,Van/Minivan,Turquoise,35861
+987,2018,Ferrari,488 Spider,Convertible,LawnGreen,7354
+988,2000,Chevrolet,Malibu,Sedan,Maroon,43993
+989,2002,Chevrolet,Astro Cargo,Van/Minivan,Orchid,48527
+990,2013,Nissan,LEAF,Hatchback,DarkCyan,57186
+991,2002,Chevrolet,TrailBlazer,SUV,LightCyan,49022
+992,2006,BMW,M5,Sedan,IndianRed,6390
+993,2008,Dodge,Ram 3500 Regular Cab,Pickup,Coral,15921
+994,1994,GMC,1500 Club Coupe,Pickup,Olive,2120
+995,1998,Mercury,Sable,"Wagon, Sedan",WhiteSmoke,21911
+996,2002,Kia,Sedona,Van/Minivan,ForestGreen,55638
+997,2005,Pontiac,Grand Am,"Sedan, Coupe",DarkViolet,52427
+998,1993,MAZDA,Protege,Sedan,SeaGreen,9432
+999,2020,BMW,X7,SUV,DeepSkyBlue,47334
+1000,2001,Chevrolet,Express 3500 Passenger,Van/Minivan,LimeGreen,16359
+1001,2002,Jeep,Grand Cherokee,SUV,Gold,50508
+1002,1994,Chevrolet,Camaro,"Convertible, Hatchback",SteelBlue,13697
+1003,1993,Dodge,Ram Wagon B350,Van/Minivan,Purple,28389
+1004,2017,MAZDA,MAZDA3,"Hatchback, Sedan",Tomato,53036
+1005,2015,Honda,CR-Z,Coupe,Chartreuse,16931
+1006,2007,GMC,Sierra 3500 HD Extended Cab,Pickup,Beige,59329
+1007,2016,Mercedes-Benz,Mercedes-AMG GLE,SUV,MediumTurquoise,55098
+1008,2010,Ford,F350 Super Duty Regular Cab,Pickup,Linen,50366
+1009,2014,GMC,Savana 3500 Cargo,Van/Minivan,Red,28815
+1010,2015,Volkswagen,Passat,Sedan,SaddleBrown,4762
+1011,2003,Ford,Taurus,"Sedan, Wagon",LightCyan,54822
+1012,1998,Mitsubishi,Mirage,"Sedan, Coupe",BurlyWood,47806
+1013,2013,Toyota,Corolla,Sedan,HotPink,5728
+1014,2000,Chevrolet,Astro Passenger,Van/Minivan,NavajoWhite,3537
+1015,2004,GMC,Canyon Extended Cab,Pickup,Olive,1342
+1016,2009,Ford,F250 Super Duty Crew Cab,Pickup,Snow,45273
+1017,1997,Subaru,Legacy,"Sedan, Wagon",Tomato,33702
+1018,1999,Isuzu,Amigo,SUV,BlanchedAlmond,41105
+1019,2020,Honda,HR-V,SUV,SaddleBrown,15773
+1020,2011,Mercedes-Benz,G-Class,SUV,LightPink,6536
+1021,1998,Toyota,RAV4,SUV,SaddleBrown,24275
+1022,2003,Chevrolet,Silverado 2500 Extended Cab,Pickup,LemonChiffon,14466
+1023,1992,Chevrolet,2500 Regular Cab,Pickup,Yellow,37121
+1024,1997,Nissan,Sentra,Sedan,PowderBlue,41078
+1025,2008,Lexus,RX,SUV,HotPink,31236
+1026,1993,Dodge,Ram Van B250,Van/Minivan,White,31491
+1027,2009,Toyota,RAV4,SUV,PowderBlue,31789
+1028,2014,BMW,i8,Coupe,Thistle,6024
+1029,2012,Audi,Q7,SUV,MintCream,26756
+1030,1997,Ford,F250 Crew Cab,Pickup,DarkMagenta,48331
+1031,1993,Suzuki,Samurai,SUV,LightCoral,41953
+1032,1997,Honda,Odyssey,Van/Minivan,Azure,54511
+1033,2007,Chevrolet,TrailBlazer,SUV,LightSlateGray,42295
+1034,1997,Volvo,850,"Sedan, Wagon",Purple,50519
+1035,2000,Ford,Explorer,SUV,Tan,11121
+1036,2009,Nissan,Frontier Crew Cab,Pickup,SlateBlue,22356
+1037,2010,Suzuki,SX4,"Sedan, Hatchback",Chocolate,45748
+1038,2004,Volvo,S80,Sedan,GhostWhite,46710
+1039,2000,MAZDA,626,Sedan,LightYellow,19604
+1040,2011,Ford,Explorer,SUV,LightPink,45686
+1041,2000,Toyota,Tacoma Xtracab,Pickup,DarkOrange,22041
+1042,2006,Toyota,Solara,"Coupe, Convertible",Blue,8032
+1043,2005,Chevrolet,Astro Cargo,Van/Minivan,CadetBlue,28550
+1044,2000,GMC,Sierra (Classic) 3500 Crew Cab,Pickup,Lime,24125
+1045,2013,Ford,F150 Super Cab,Pickup,SteelBlue,24715
+1046,2012,Chevrolet,Silverado 3500 HD Extended Cab,Pickup,DodgerBlue,30072
+1047,2013,smart,fortwo,"Hatchback, Convertible",DeepSkyBlue,58357
+1048,2014,Jeep,Wrangler,SUV,MediumVioletRed,15046
+1049,2004,GMC,Sierra 1500 Extended Cab,Pickup,LimeGreen,47706
+1050,2017,Audi,A8,Sedan,PaleTurquoise,17153
+1051,2016,Honda,CR-Z,Coupe,MintCream,47705
+1052,1998,Subaru,Impreza,"Sedan, Wagon, Coupe",Crimson,50519
+1053,2007,Chevrolet,Suburban 2500,SUV,MediumVioletRed,1309
+1054,1996,Mercury,Grand Marquis,Sedan,Blue,40108
+1055,2003,Dodge,Intrepid,Sedan,DarkSeaGreen,33613
+1056,2016,Tesla,Model X,SUV,Gray,31437
+1057,2016,Rolls-Royce,Dawn,Convertible,MediumBlue,39109
+1058,2000,Ford,Explorer,SUV,NavajoWhite,46057
+1059,2014,Nissan,NV3500 HD Passenger,Van/Minivan,Bisque,13159
+1060,2014,Toyota,Tundra Double Cab,Pickup,OldLace,52784
+1061,2008,Aston Martin,DBS,Coupe,LavenderBlush,5163
+1062,2017,Mercedes-Benz,Mercedes-AMG C-Class,"Convertible, Sedan, Coupe",DarkGreen,43381
+1063,2001,Chrysler,Concorde,Sedan,Fuchsia,49093
+1064,1992,Geo,Prizm,Sedan,DodgerBlue,41311
+1065,2004,Ford,Explorer Sport Trac,Pickup,Navy,11233
+1066,2007,GMC,Sierra (Classic) 2500 HD Regular Cab,Pickup,Teal,24514
+1067,1998,Ford,F250 Regular Cab,Pickup,MediumSeaGreen,29506
+1068,2006,Chrysler,Town & Country,Van/Minivan,PapayaWhip,21533
+1069,1995,Ford,Windstar Cargo,Van/Minivan,Lavender,42428
+1070,1992,GMC,Vandura 2500,Van/Minivan,SteelBlue,16523
+1071,1998,Chevrolet,Tahoe,SUV,DarkTurquoise,50316
+1072,2006,Cadillac,SRX,SUV,MediumBlue,31270
+1073,2011,Acura,MDX,SUV,Fuchsia,28272
+1074,1997,Volvo,850,"Sedan, Wagon",Green,57814
+1075,2014,Chevrolet,Spark,Hatchback,MediumTurquoise,48893
+1076,2016,Cadillac,ATS-V,"Sedan, Coupe",LawnGreen,54266
+1077,2005,Volvo,XC70,Wagon,HotPink,30532
+1078,2009,Chevrolet,Express 2500 Passenger,Van/Minivan,DarkOrange,27432
+1079,2016,MAZDA,MX-5 Miata,Convertible,FireBrick,37361
+1080,2001,BMW,X5,SUV,AliceBlue,47069
+1081,2017,BMW,X5 M,SUV,Maroon,53872
+1082,1992,MAZDA,929,Sedan,LawnGreen,59567
+1083,2015,Lexus,LS,Sedan,MediumBlue,15162
+1084,2000,Dodge,Ram 3500 Regular Cab,Pickup,Khaki,1247
+1085,2001,BMW,Z3,"Convertible, Hatchback",Magenta,14130
+1086,2001,Volkswagen,Passat (New),"Sedan, Wagon",Moccasin,55893
+1087,1994,Hyundai,Elantra,Sedan,LightGreen,57593
+1088,1995,Porsche,968,"Coupe, Convertible",Indigo,46647
+1089,2015,Chevrolet,Silverado 1500 Regular Cab,Pickup,DarkGreen,37957
+1090,2016,Ram,2500 Mega Cab,Pickup,MistyRose,30817
+1091,1995,Cadillac,Seville,Sedan,Gold,27762
+1092,2016,Dodge,Grand Caravan Passenger,Van/Minivan,GoldenRod,47298
+1093,1998,MAZDA,MPV,Van/Minivan,Linen,24492
+1094,2003,Chevrolet,Express 3500 Cargo,Van/Minivan,PowderBlue,57914
+1095,2003,Ford,F150 Super Cab,Pickup,LemonChiffon,59341
+1096,2008,Chevrolet,Silverado 2500 HD Extended Cab,Pickup,Teal,25362
+1097,2002,Ford,Expedition,SUV,LightYellow,49384
+1098,2010,Chevrolet,Traverse,SUV,PaleVioletRed,23109
+1099,2018,Volkswagen,Beetle,"Hatchback, Convertible",MediumSlateBlue,11496
+1100,2003,INFINITI,I,Sedan,DodgerBlue,31887
+1101,2018,GMC,Yukon,SUV,Red,44684
+1102,1993,MAZDA,MX-5 Miata,Convertible,SlateGray,19109
+1103,2014,Honda,CR-V,SUV,GoldenRod,42425
+1104,2000,Dodge,Viper,"Convertible, Coupe",Beige,14445
+1105,2014,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,Aquamarine,52055
+1106,1998,Chevrolet,Monte Carlo,Coupe,GhostWhite,11582
+1107,2001,Pontiac,Bonneville,Sedan,MediumTurquoise,18612
+1108,2012,MINI,Convertible,Convertible,DarkGoldenRod,57256
+1109,2018,Rolls-Royce,Wraith,Coupe,LightSeaGreen,4999
+1110,2019,Ram,1500 Quad Cab,Pickup,LightGreen,42289
+1111,1995,Dodge,Stealth,Hatchback,LawnGreen,44425
+1112,2018,Mercedes-Benz,Mercedes-AMG GLC,SUV,Coral,4702
+1113,1992,Hyundai,Scoupe,Coupe,MediumSlateBlue,47051
+1114,2020,Porsche,Cayenne,SUV,DarkOrange,42247
+1115,2019,Honda,Pilot,SUV,LightBlue,10327
+1116,2007,Dodge,Caravan Passenger,Van/Minivan,DarkBlue,12206
+1117,2013,Nissan,370Z,"Coupe, Convertible",BlueViolet,43600
+1118,1999,MAZDA,Protege,Sedan,LightPink,15801
+1119,2004,Dodge,Intrepid,Sedan,PapayaWhip,48898
+1120,2011,BMW,X5 M,SUV,Maroon,16095
+1121,2001,Toyota,Tundra Access Cab,Pickup,Aquamarine,14655
+1122,2017,Mercedes-Benz,GLC,SUV,MediumSlateBlue,4571
+1123,2011,Chevrolet,Express 2500 Cargo,Van/Minivan,SteelBlue,35927
+1124,2017,Lexus,CT,Hatchback,LightSteelBlue,11529
+1125,2004,Chevrolet,S10 Crew Cab,Pickup,DarkGray,23019
+1126,1994,Volvo,850,"Wagon, Sedan",Pink,45617
+1127,2002,Ford,Taurus,"Sedan, Wagon",DarkSlateBlue,53052
+1128,2015,Audi,Q3,SUV,Plum,3966
+1129,2017,BMW,X4,SUV,DarkCyan,28190
+1130,2018,Freightliner,Sprinter 3500 Cargo,Van/Minivan,Aqua,56104
+1131,1996,Chevrolet,3500 Crew Cab,Pickup,MediumAquaMarine,45592
+1132,1995,Cadillac,Eldorado,Coupe,LightSkyBlue,39635
+1133,2020,Chevrolet,Corvette,"Coupe, Convertible",Gainsboro,1617
+1134,1998,Hyundai,Elantra,"Sedan, Wagon",MintCream,37637
+1135,2015,Audi,RS 5,"Coupe, Convertible",SlateGray,59276
+1136,2016,Mitsubishi,i-MiEV,Hatchback,Teal,39737
+1137,2016,Land Rover,Range Rover Evoque,SUV,Salmon,16799
+1138,1995,Geo,Metro,"Hatchback, Sedan",LightGreen,44417
+1139,2010,Chevrolet,Silverado 1500 Crew Cab,Pickup,Salmon,33124
+1140,2020,Lexus,ES,Sedan,Orange,44297
+1141,2014,GMC,Acadia,SUV,FireBrick,54112
+1142,1994,Ford,Bronco,SUV,LightCoral,40653
+1143,2008,Toyota,Sienna,Van/Minivan,PaleGreen,54407
+1144,1993,Ford,Mustang,"Coupe, Convertible",YellowGreen,42560
+1145,2010,Toyota,Tundra CrewMax,Pickup,Silver,20068
+1146,2013,Subaru,Legacy,Sedan,Snow,26590
+1147,1996,BMW,Z3,Convertible,Tan,13170
+1148,2016,GMC,Acadia,SUV,Sienna,36706
+1149,2004,Suzuki,Verona,Sedan,Aquamarine,52146
+1150,2004,Jeep,Liberty,SUV,DarkOrchid,31419
+1151,2001,Pontiac,Montana,Van/Minivan,Tan,50771
+1152,2016,Dodge,Viper,Coupe,Olive,54637
+1153,2010,Nissan,cube,Wagon,LightGoldenRodYellow,58932
+1154,2013,Dodge,Durango,SUV,LightSalmon,44344
+1155,2003,Subaru,Impreza,"Wagon, Sedan",DeepSkyBlue,5394
+1156,1994,Chevrolet,Lumina Cargo,Van/Minivan,Violet,22312
+1157,1995,GMC,Rally Wagon G3500,Van/Minivan,Orchid,56604
+1158,1999,Ford,F250 Super Duty Super Cab,Pickup,FireBrick,28396
+1159,2004,Volkswagen,R32,Hatchback,LightGreen,13989
+1160,1993,Toyota,Regular Cab,Pickup,MediumSlateBlue,49266
+1161,2000,Ford,Ranger Super Cab,Pickup,ForestGreen,38008
+1162,2004,Ford,Escape,SUV,GreenYellow,15638
+1163,2018,Toyota,Corolla iM,Hatchback,DarkCyan,29667
+1164,2017,Buick,LaCrosse,Sedan,IndianRed,19153
+1165,2001,Mercury,Cougar,Coupe,PaleGreen,31676
+1166,2017,Kia,K900,Sedan,Silver,51011
+1167,2012,Jaguar,XJ,Sedan,LightSkyBlue,46221
+1168,2004,Porsche,Boxster,Convertible,DarkOrange,1492
+1169,2006,Cadillac,Escalade,SUV,ForestGreen,17989
+1170,1995,Mercedes-Benz,C-Class,Sedan,Linen,11915
+1171,2009,Toyota,4Runner,SUV,HotPink,36841
+1172,2006,Mitsubishi,Endeavor,SUV,LemonChiffon,21531
+1173,1995,Oldsmobile,98,Sedan,DeepSkyBlue,3687
+1174,2012,Chevrolet,Silverado 1500 Regular Cab,Pickup,DarkGreen,56053
+1175,1994,Toyota,Xtra Cab,Pickup,LightSkyBlue,19405
+1176,2001,HUMMER,H1,"Wagon, SUV",OliveDrab,28273
+1177,2013,Ford,E350 Super Duty Passenger,Van/Minivan,MintCream,19393
+1178,2019,Mercedes-Benz,Mercedes-AMG CLS,Sedan,DarkMagenta,53261
+1179,1996,Isuzu,Hombre Regular Cab,Pickup,MintCream,40485
+1180,2018,Mitsubishi,Mirage G4,Sedan,SkyBlue,51491
+1181,1998,Mercedes-Benz,SLK-Class,Convertible,Navy,16056
+1182,2009,Hyundai,Elantra,"Sedan, Wagon",Plum,45958
+1183,2004,Jaguar,XJ,Sedan,GoldenRod,40813
+1184,2018,Toyota,Sequoia,SUV,PapayaWhip,37923
+1185,2012,MINI,Convertible,Convertible,Cornsilk,17570
+1186,1993,Audi,100,"Sedan, Wagon",WhiteSmoke,15931
+1187,2006,Scion,xB,Hatchback,DarkSlateBlue,42888
+1188,2005,GMC,Savana 3500 Cargo,Van/Minivan,MediumSpringGreen,3430
+1189,2000,BMW,5 Series,"Sedan, Wagon",Silver,28933
+1190,2015,Nissan,NV200 Taxi,Van/Minivan,Moccasin,59519
+1191,2008,Acura,TL,Sedan,OrangeRed,46926
+1192,2005,Chrysler,Pacifica,Wagon,Silver,14147
+1193,2015,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,Cornsilk,18866
+1194,2020,Honda,Passport,SUV,DarkRed,42767
+1195,2010,Lotus,Evora,Coupe,Teal,47407
+1196,2012,Honda,CR-Z,Coupe,PaleGreen,46442
+1197,1997,Ford,Expedition,SUV,GhostWhite,17490
+1198,1993,GMC,2500 Regular Cab,Pickup,Gainsboro,10993
+1199,2002,Porsche,Boxster,Convertible,SkyBlue,37662
+1200,2009,Kia,Sportage,SUV,RosyBrown,15521
+1201,2012,GMC,Savana 1500 Cargo,Van/Minivan,MintCream,40812
+1202,2017,Buick,LaCrosse,Sedan,DarkGoldenRod,47968
+1203,2002,Lexus,ES,Sedan,YellowGreen,30592
+1204,2000,Dodge,Ram Wagon 1500,Van/Minivan,GreenYellow,17145
+1205,2020,Jeep,Wrangler,SUV,FireBrick,9910
+1206,2008,Subaru,Tribeca,SUV,SlateBlue,47882
+1207,1998,GMC,Savana 3500 Cargo,Van/Minivan,Sienna,11324
+1208,2006,Dodge,Stratus,Sedan,BurlyWood,44547
+1209,2003,Cadillac,DeVille,Sedan,Plum,28945
+1210,1992,Volkswagen,Corrado,Coupe,LightSeaGreen,17049
+1211,2008,Ford,Explorer,SUV,DarkBlue,51344
+1212,2015,Subaru,WRX,Sedan,Navy,1772
+1213,2017,Aston Martin,Vantage,"Convertible, Coupe",Silver,18034
+1214,2015,Freightliner,Sprinter 3500 Cargo,Van/Minivan,LightCyan,21543
+1215,2020,Subaru,Forester,SUV,Thistle,39635
+1216,2012,Ford,Flex,SUV,MistyRose,34818
+1217,2017,Volkswagen,CC,Sedan,LightSteelBlue,48056
+1218,1998,Chevrolet,2500 Regular Cab,Pickup,DarkKhaki,50996
+1219,2007,Saturn,Outlook,SUV,SkyBlue,27766
+1220,1997,Hyundai,Elantra,"Wagon, Sedan",IndianRed,52813
+1221,2016,Chrysler,300,Sedan,MediumVioletRed,58403
+1222,2019,Mercedes-Benz,Mercedes-AMG C-Class,"Sedan, Convertible, Coupe",RoyalBlue,18463
+1223,2019,Nissan,Rogue,SUV,MediumTurquoise,47243
+1224,2010,Chrysler,Sebring,"Sedan, Convertible",DarkKhaki,47793
+1225,1999,Honda,Accord,"Coupe, Sedan",Bisque,38620
+1226,2003,Pontiac,Aztek,SUV,Blue,25757
+1227,2014,Mercedes-Benz,SLS-Class,"Coupe, Convertible",Black,24774
+1228,2015,BMW,3 Series,"Sedan, Wagon",MediumSeaGreen,8910
+1229,2003,Hyundai,Elantra,"Sedan, Hatchback",SpringGreen,55194
+1230,1994,Plymouth,Voyager,Van/Minivan,PapayaWhip,51511
+1231,2007,Hyundai,Entourage,Van/Minivan,Thistle,50561
+1232,2005,Ford,Thunderbird,Convertible,Black,1857
+1233,2004,Volkswagen,Jetta,"Wagon, Sedan",Gold,36025
+1234,2014,Ram,3500 Mega Cab,Pickup,DarkGreen,14082
+1235,2004,Ford,F250 Super Duty Super Cab,Pickup,DarkSlateBlue,38213
+1236,1999,Chevrolet,Express 3500 Cargo,Van/Minivan,GreenYellow,18916
+1237,2010,Acura,MDX,SUV,MediumAquaMarine,6480
+1238,2009,Toyota,Tundra Regular Cab,Pickup,LightSalmon,23652
+1239,2014,Audi,RS 7,Sedan,SkyBlue,57536
+1240,2002,Dodge,Ram 3500 Regular Cab,Pickup,DarkSlateGray,38655
+1241,2000,Kia,Sephia,Sedan,Sienna,27039
+1242,2013,GMC,Savana 3500 Passenger,Van/Minivan,Lavender,44000
+1243,1995,Toyota,Tacoma Xtracab,Pickup,MediumPurple,3771
+1244,2015,Chevrolet,Silverado 3500 HD Crew Cab,Pickup,Blue,46573
+1245,2009,Maserati,GranTurismo,Coupe,DeepSkyBlue,44921
+1246,2002,Jeep,Grand Cherokee,SUV,DarkOrchid,27682
+1247,2012,Lexus,CT,Hatchback,Silver,17444
+1248,2017,Nissan,Sentra,Sedan,Orchid,45837
+1249,2007,Acura,MDX,SUV,SpringGreen,42076
+1250,2018,Ford,F350 Super Duty Regular Cab,Pickup,LightSeaGreen,39783
+1251,2003,Chevrolet,S10 Regular Cab,Pickup,CornflowerBlue,58415
+1252,1992,Pontiac,Bonneville,Sedan,MediumVioletRed,31843
+1253,2009,Dodge,Dakota Crew Cab,Pickup,LavenderBlush,22007
+1254,2006,Mercedes-Benz,SLK-Class,Convertible,Beige,9706
+1255,2019,Chevrolet,Silverado 1500 Double Cab,Pickup,DarkRed,16814
+1256,2004,Chevrolet,Silverado 3500 Extended Cab,Pickup,DarkSlateBlue,10891
+1257,1993,Mitsubishi,Mighty Max Regular Cab,Pickup,LightPink,47762
+1258,2012,Volkswagen,CC,Sedan,PaleVioletRed,3829
+1259,2012,Toyota,RAV4,SUV,Gainsboro,52244
+1260,2019,Volkswagen,Jetta,Sedan,Linen,12335
+1261,2018,Maserati,Quattroporte,Sedan,SandyBrown,30886
+1262,2014,Nissan,NV3500 HD Passenger,Van/Minivan,Black,48674
+1263,2019,Audi,A6,Sedan,LightSalmon,50539
+1264,2012,Volkswagen,Jetta,Sedan,White,1729
+1265,1993,Cadillac,Eldorado,Coupe,LightCoral,9950
+1266,1993,Ford,Probe,Hatchback,WhiteSmoke,4592
+1267,2019,Kia,Soul,Wagon,OldLace,25675
+1268,2019,Mercedes-Benz,C-Class,"Convertible, Sedan, Coupe",FloralWhite,22244
+1269,2019,Kia,Niro EV,Wagon,DarkSlateGray,24034
+1270,2000,Audi,A8,Sedan,WhiteSmoke,8098
+1271,1992,GMC,3500 Regular Cab,Pickup,DarkOliveGreen,49182
+1272,2014,Cadillac,ELR,Coupe,YellowGreen,29715
+1273,2011,Audi,A4,"Sedan, Wagon",Plum,51566
+1274,2013,Hyundai,Elantra,"Sedan, Coupe, Hatchback",Tomato,44228
+1275,2004,Audi,A8,Sedan,LightSkyBlue,43238
+1276,2020,Nissan,Rogue,SUV,MediumPurple,54135
+1277,2020,Porsche,Panamera,Sedan,LawnGreen,18839
+1278,2007,GMC,Sierra 2500 HD Regular Cab,Pickup,ForestGreen,39159
+1279,2019,Nissan,Pathfinder,SUV,DarkOliveGreen,21867
+1280,2017,Chevrolet,Impala,Sedan,MediumVioletRed,23023
+1281,2004,Lincoln,Town Car,Sedan,HoneyDew,45847
+1282,2001,MAZDA,Tribute,SUV,SandyBrown,10763
+1283,2011,Ford,Expedition,SUV,LightBlue,5047
+1284,2011,Mercury,Grand Marquis,Sedan,LawnGreen,43077
+1285,2001,Ford,Explorer,SUV,LightYellow,15198
+1286,2000,Chevrolet,Suburban 2500,SUV,Black,3487
+1287,2011,Ram,3500 Crew Cab,Pickup,Blue,6108
+1288,2003,Toyota,RAV4,SUV,BlueViolet,49572
+1289,1998,Dodge,Ram Wagon 3500,Van/Minivan,DarkSlateBlue,39245
+1290,1998,Volvo,V90,Wagon,Cyan,19087
+1291,2014,Lexus,RX,SUV,Olive,35791
+1292,2005,Nissan,Maxima,Sedan,PaleTurquoise,12338
+1293,2015,Audi,allroad,Wagon,LightSlateGray,51626
+1294,2013,Ford,Flex,SUV,Gold,13840
+1295,2000,Dodge,Ram Van 2500,Van/Minivan,DeepPink,21147
+1296,2017,Ford,F150 SuperCrew Cab,Pickup,Coral,37628
+1297,1997,GMC,Suburban 1500,SUV,Yellow,27916
+1298,2017,FIAT,500e,Hatchback,PapayaWhip,32911
+1299,2012,Chevrolet,Cruze,Sedan,ForestGreen,20031
+1300,1997,Isuzu,Rodeo,SUV,Red,14272
+1301,2005,Chrysler,Crossfire,"Coupe, Convertible",Plum,42493
+1302,2015,Lincoln,MKT,SUV,Aquamarine,34571
+1303,1994,Ford,Mustang,"Coupe, Convertible",Tan,40467
+1304,2017,Lexus,RC,Coupe,OliveDrab,47796
+1305,2016,Chevrolet,Corvette,"Coupe, Convertible",PaleTurquoise,35902
+1306,1999,Mitsubishi,Eclipse,"Coupe, Convertible",PaleGreen,22832
+1307,2018,GMC,Sierra 2500 HD Regular Cab,Pickup,LightSkyBlue,47314
+1308,1992,Chrysler,Fifth Ave,Sedan,LightCyan,8956
+1309,2007,Chevrolet,Silverado 2500 HD Extended Cab,Pickup,Teal,18654
+1310,2008,Lincoln,Navigator L,SUV,DarkKhaki,29446
+1311,1999,Lexus,RX,SUV,Purple,47306
+1312,2009,Hyundai,Azera,Sedan,Crimson,21780
+1313,2004,Toyota,Land Cruiser,SUV,MediumSpringGreen,23486
+1314,2005,Honda,Pilot,SUV,AntiqueWhite,45741
+1315,2014,Mercedes-Benz,E-Class,"Sedan, Wagon, Coupe, Convertible",LavenderBlush,54041
+1316,1992,GMC,Vandura 1500,Van/Minivan,DodgerBlue,17494
+1317,2018,Ferrari,812 Superfast,Coupe,DarkMagenta,36154
+1318,2017,Mercedes-Benz,Mercedes-AMG GLC,SUV,DeepPink,22314
+1319,2004,Mitsubishi,Montero Sport,SUV,MediumSeaGreen,29695
+1320,2015,Volkswagen,Golf GTI,Hatchback,Purple,34241
+1321,2011,Suzuki,Equator Extended Cab,Pickup,Gray,55557
+1322,2001,Honda,Accord,"Sedan, Coupe",Brown,7318
+1323,1998,Pontiac,Sunfire,"Convertible, Sedan, Coupe",BlanchedAlmond,46189
+1324,2003,Chrysler,Concorde,Sedan,LightGoldenRodYellow,27996
+1325,2016,Chevrolet,Corvette,"Coupe, Convertible",DarkCyan,45088
+1326,2014,Nissan,Versa,"Sedan, Hatchback",MintCream,2384
+1327,1998,BMW,M3,"Convertible, Sedan, Coupe",Tan,18444
+1328,2008,Hyundai,Elantra,Sedan,MediumVioletRed,29043
+1329,2003,Chevrolet,Venture Cargo,Van/Minivan,PowderBlue,20225
+1330,1993,Chevrolet,Suburban 2500,SUV,PapayaWhip,50299
+1331,2013,Toyota,Prius Plug-in Hybrid,Hatchback,FireBrick,42286
+1332,2000,Subaru,Outback,"Wagon, Sedan",Silver,42427
+1333,2001,INFINITI,QX,SUV,Red,44636
+1334,2008,Lincoln,Navigator,SUV,DarkGreen,8297
+1335,1997,Dodge,Ram 3500 Regular Cab,Pickup,Snow,54033
+1336,2007,Honda,S2000,Convertible,DarkSlateBlue,24554
+1337,2003,Dodge,Grand Caravan Passenger,Van/Minivan,WhiteSmoke,38486
+1338,1993,Mercury,Sable,"Sedan, Wagon",Teal,28291
+1339,2010,Kia,Sedona,Van/Minivan,Bisque,53423
+1340,1993,MAZDA,929,Sedan,Teal,2002
+1341,2004,Chevrolet,Suburban 1500,SUV,Gold,23468
+1342,2017,Audi,S6,Sedan,YellowGreen,43833
+1343,1999,MAZDA,Millenia,Sedan,SeaGreen,14864
+1344,2006,GMC,Sierra 1500 Regular Cab,Pickup,NavajoWhite,49541
+1345,2000,Mitsubishi,Diamante,Sedan,BurlyWood,57550
+1346,2012,Volkswagen,CC,Sedan,LightGreen,49012
+1347,2017,GMC,Savana 2500 Passenger,Van/Minivan,Orchid,53124
+1348,1998,Mitsubishi,Diamante,Sedan,PeachPuff,53301
+1349,2000,Mitsubishi,Eclipse,Coupe,WhiteSmoke,38610
+1350,2013,Hyundai,Santa Fe,SUV,Maroon,10153
+1351,2002,Acura,NSX,Coupe,Lavender,32418
+1352,2004,Toyota,Solara,"Coupe, Convertible",LightGray,56016
+1353,2011,Jeep,Patriot,SUV,Plum,31339
+1354,1999,Cadillac,DeVille,Sedan,DarkTurquoise,13355
+1355,2017,Mercedes-Benz,Mercedes-AMG GT,Coupe,Wheat,2552
+1356,2001,Volkswagen,Passat,"Sedan, Wagon",Turquoise,32926
+1357,2013,Nissan,NV1500 Cargo,Van/Minivan,Tomato,15393
+1358,2013,Nissan,Altima,"Sedan, Coupe",Blue,30740
+1359,2006,Toyota,Tundra Access Cab,Pickup,LightSkyBlue,13962
+1360,2002,BMW,7 Series,Sedan,DarkBlue,27609
+1361,1993,Oldsmobile,Cutlass Supreme,"Coupe, Convertible, Sedan",DodgerBlue,14804
+1362,2001,Chevrolet,Cavalier,"Sedan, Coupe",DodgerBlue,56999
+1363,2018,Ford,Transit 150 Van,Van/Minivan,LightSkyBlue,51776
+1364,2008,Hyundai,Accent,"Hatchback, Sedan",Purple,59197
+1365,1997,BMW,5 Series,Sedan,Aqua,5680
+1366,2019,Toyota,Corolla Hatchback,Hatchback,Fuchsia,2772
+1367,2016,Subaru,WRX,Sedan,Linen,39509
+1368,2010,Volvo,XC90,SUV,BlueViolet,9142
+1369,2013,Buick,Regal,Sedan,LightSlateGray,5967
+1370,2010,Nissan,Titan Crew Cab,Pickup,GoldenRod,25327
+1371,1994,Toyota,Paseo,Coupe,Tan,9799
+1372,2018,BMW,M2,Coupe,BlanchedAlmond,24506
+1373,2013,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,OliveDrab,51301
+1374,2003,Honda,Insight,Hatchback,SpringGreen,43027
+1375,2006,Lexus,IS,Sedan,AliceBlue,54896
+1376,2013,Buick,Enclave,SUV,Sienna,8355
+1377,1992,Nissan,King Cab,Pickup,MediumAquaMarine,9958
+1378,2008,GMC,Sierra 3500 HD Regular Cab,Pickup,LightSkyBlue,55319
+1379,2018,Dodge,Charger,Sedan,SeaShell,33454
+1380,2005,Toyota,Tacoma Double Cab,Pickup,FireBrick,27145
+1381,2015,Jeep,Patriot,SUV,LavenderBlush,42071
+1382,1995,Chevrolet,1500 Regular Cab,Pickup,Teal,5748
+1383,2016,Lexus,ES,Sedan,SandyBrown,48602
+1384,2000,Chevrolet,Tahoe (New),SUV,Plum,27869
+1385,1999,Chevrolet,Astro Cargo,Van/Minivan,WhiteSmoke,15507
+1386,2007,Dodge,Nitro,SUV,DarkViolet,36765
+1387,2014,BMW,M5,Sedan,Yellow,9583
+1388,2013,Ford,E150 Passenger,Van/Minivan,ForestGreen,6456
+1389,2010,Suzuki,Kizashi,Sedan,Plum,7024
+1390,2017,Tesla,Model S,Sedan,Khaki,20573
+1391,1998,Honda,Odyssey,Van/Minivan,GoldenRod,40585
+1392,2009,Land Rover,LR3,SUV,Lime,19068
+1393,1995,Volkswagen,Cabrio,Convertible,Red,57025
+1394,2008,Ferrari,F430,"Convertible, Coupe",MistyRose,48509
+1395,2013,Scion,iQ,Hatchback,DarkSlateBlue,37147
+1396,2009,Subaru,Tribeca,SUV,MediumBlue,37929
+1397,2007,Toyota,Tundra Regular Cab,Pickup,Linen,56209
+1398,2006,Mercury,Montego,Sedan,Aqua,41382
+1399,2009,Nissan,Xterra,SUV,PaleGreen,42441
+1400,2010,Ford,Ranger Regular Cab,Pickup,MediumSpringGreen,57212
+1401,2012,Ford,F250 Super Duty Super Cab,Pickup,MediumOrchid,13578
+1402,2010,Nissan,GT-R,Coupe,HoneyDew,18292
+1403,2015,Freightliner,Sprinter 3500 Cargo,Van/Minivan,SeaGreen,16779
+1404,1993,Toyota,Camry,"Wagon, Sedan",PapayaWhip,10717
+1405,2010,Mercedes-Benz,GLK-Class,SUV,White,9651
+1406,1999,Hyundai,Sonata,Sedan,LimeGreen,5847
+1407,2012,Ford,F150 SuperCrew Cab,Pickup,HotPink,19614
+1408,1992,Saab,900,"Sedan, Hatchback, Convertible",PaleGoldenRod,28216
+1409,1998,Volkswagen,New Beetle,Hatchback,MintCream,45546
+1410,2004,Nissan,Titan King Cab,Pickup,Peru,45102
+1411,2008,Ford,F450 Super Duty Crew Cab,Pickup,Gold,1823
+1412,1993,MAZDA,323,Hatchback,DarkSlateBlue,41194
+1413,1994,BMW,8 Series,Coupe,Snow,29088
+1414,1998,Hyundai,Accent,"Hatchback, Sedan",DarkOrchid,39699
+1415,1999,Dodge,Ram Wagon 3500,Van/Minivan,Tomato,36246
+1416,2018,Lexus,RC,Coupe,HoneyDew,54563
+1417,2004,Pontiac,GTO,Coupe,MintCream,17369
+1418,2002,GMC,Sierra 2500 HD Extended Cab,Pickup,LightSkyBlue,45638
+1419,2007,Dodge,Sprinter 3500 Cargo,Van/Minivan,DarkSalmon,25863
+1420,1997,Subaru,Impreza,"Coupe, Wagon, Sedan",PapayaWhip,10994
+1421,2005,Nissan,Pathfinder,SUV,CornflowerBlue,52113
+1422,2019,Honda,Accord,Sedan,Gray,40098
+1423,2010,Chrysler,PT Cruiser,Wagon,Gold,55805
+1424,2020,Chevrolet,Equinox,SUV,Snow,45678
+1425,2019,Volkswagen,Golf R,Hatchback,Pink,26566
+1426,2014,Chevrolet,Cruze,Sedan,FloralWhite,25528
+1427,1994,MAZDA,B-Series Regular Cab,Pickup,DarkGoldenRod,29058
+1428,1999,Chevrolet,Silverado 1500 Extended Cab,Pickup,DeepPink,32120
+1429,2015,MINI,Countryman,Hatchback,LightSkyBlue,51331
+1430,2001,Daewoo,Nubira,"Sedan, Wagon",OldLace,22237
+1431,2009,Toyota,FJ Cruiser,SUV,ForestGreen,10140
+1432,2006,Honda,Odyssey,Van/Minivan,Gainsboro,57077
+1433,2001,Dodge,Ram Van 1500,Van/Minivan,Violet,20936
+1434,2019,Lexus,GX,SUV,Yellow,40317
+1435,2008,Volvo,XC70,Wagon,LemonChiffon,36837
+1436,2001,Toyota,4Runner,SUV,Khaki,55451
+1437,1999,Mercury,Villager,Van/Minivan,Lavender,6784
+1438,1992,Ford,Thunderbird,Coupe,MediumVioletRed,36488
+1439,1999,Oldsmobile,Aurora,Sedan,MintCream,48796
+1440,2002,Dodge,Ram 2500 Regular Cab,Pickup,CadetBlue,15366
+1441,1992,Daihatsu,Rocky,SUV,Gray,54839
+1442,2014,Bentley,Continental,"Coupe, Convertible",Indigo,2365
+1443,2017,Chevrolet,Equinox,SUV,GhostWhite,2005
+1444,2006,Chevrolet,Silverado 1500 Extended Cab,Pickup,DarkBlue,31382
+1445,2011,Chrysler,Town & Country,Van/Minivan,DarkGreen,26111
+1446,2008,Chevrolet,Silverado 1500 Crew Cab,Pickup,DarkRed,5520
+1447,2015,Ram,3500 Mega Cab,Pickup,Gainsboro,8587
+1448,2002,Saab,3-Sep,"Convertible, Hatchback",CornflowerBlue,56822
+1449,2009,Mercury,Milan,Sedan,CornflowerBlue,13173
+1450,2015,Chevrolet,Cruze,Sedan,HotPink,19616
+1451,2011,BMW,7 Series,Sedan,PaleGreen,14945
+1452,2017,MAZDA,CX-3,SUV,CadetBlue,41812
+1453,2004,Volkswagen,Golf,Hatchback,MediumOrchid,9111
+1454,2017,Toyota,Sienna,Van/Minivan,PaleGreen,6212
+1455,2013,Mercedes-Benz,Sprinter 2500 Cargo,Van/Minivan,LightSlateGray,48079
+1456,2013,Ferrari,California,Convertible,Green,47782
+1457,1995,Chevrolet,2500 Extended Cab,Pickup,Silver,6853
+1458,2018,smart,fortwo electric drive cabrio,Convertible,BlueViolet,35414
+1459,2011,Cadillac,Escalade,SUV,ForestGreen,16308
+1460,2007,GMC,Sierra (Classic) 1500 Extended Cab,Pickup,Thistle,49407
+1461,2014,Cadillac,ELR,Coupe,MediumVioletRed,58566
+1462,2004,Toyota,Tundra Access Cab,Pickup,DarkViolet,52961
+1463,2013,Honda,CR-V,SUV,LightGreen,6491
+1464,2007,Mercedes-Benz,CLK-Class,"Convertible, Coupe",Teal,27248
+1465,1993,Mitsubishi,Montero,SUV,MediumSlateBlue,2394
+1466,2004,Ford,F150 SuperCrew Cab,Pickup,DarkOrchid,21066
+1467,2012,BMW,X5 M,SUV,LightSalmon,24853
+1468,2007,Subaru,Impreza,"Sedan, Wagon",Silver,56599
+1469,2000,Porsche,Boxster,Convertible,YellowGreen,31762
+1470,2009,Mercedes-Benz,CLK-Class,"Coupe, Convertible",Moccasin,12013
+1471,2019,Toyota,Avalon Hybrid,Sedan,IndianRed,14479
+1472,2010,GMC,Sierra 2500 HD Crew Cab,Pickup,HoneyDew,5697
+1473,2019,MAZDA,CX-9,SUV,White,55647
+1474,2004,GMC,Savana 2500 Passenger,Van/Minivan,Orange,59888
+1475,2000,GMC,Sierra (Classic) 3500 Regular Cab,Pickup,FloralWhite,34062
+1476,2008,Dodge,Ram 1500 Quad Cab,Pickup,Khaki,55412
+1477,2011,Mitsubishi,Outlander,SUV,MediumOrchid,27324
+1478,1999,GMC,1500 Club Coupe,Pickup,Lavender,30296
+1479,1997,Chevrolet,Astro Passenger,Van/Minivan,DarkViolet,15755
+1480,1999,GMC,Sierra 2500 Extended Cab,Pickup,Silver,40270
+1481,1994,GMC,Rally Wagon 2500,Van/Minivan,SeaShell,36530
+1482,2019,GMC,Sierra 1500 Crew Cab,Pickup,FloralWhite,38117
+1483,2015,BMW,7 Series,Sedan,BlueViolet,53465
+1484,1992,Oldsmobile,98,Sedan,Purple,53062
+1485,2017,Nissan,JUKE,SUV,FloralWhite,29782
+1486,2007,Toyota,Land Cruiser,SUV,DarkViolet,2676
+1487,2003,Toyota,Highlander,SUV,Yellow,1066
+1488,2017,Ford,C-MAX Energi,Wagon,Aquamarine,54969
+1489,1992,Lexus,ES,Sedan,PeachPuff,9101
+1490,2010,Ferrari,California,Convertible,GhostWhite,48018
+1491,1995,Eagle,Talon,Hatchback,SlateBlue,56360
+1492,2014,GMC,Sierra 1500 Crew Cab,Pickup,OliveDrab,38456
+1493,2007,Hyundai,Veracruz,SUV,DarkBlue,25636
+1494,2018,FIAT,500X,SUV,Coral,12531
+1495,2004,Nissan,Pathfinder,SUV,DarkKhaki,29306
+1496,2000,Chevrolet,Express 3500 Passenger,Van/Minivan,HotPink,5932
+1497,2016,Acura,RDX,SUV,LavenderBlush,6044
+1498,2018,Mercedes-Benz,Mercedes-AMG GLE,SUV,Tomato,8652
+1499,1992,Dodge,Spirit,Sedan,DarkGray,54060
+1500,2010,Ford,E350 Super Duty Cargo,Van/Minivan,PaleGoldenRod,43701
+1501,2004,GMC,Canyon Regular Cab,Pickup,Tomato,17505
+1502,1996,Toyota,Supra,Hatchback,MediumPurple,23365
+1503,2016,FIAT,500 Abarth,"Hatchback, Convertible",Aqua,34690
+1504,1993,Nissan,Maxima,Sedan,GoldenRod,20719
+1505,2019,Toyota,Mirai,Sedan,LightGoldenRodYellow,41568
+1506,2017,Chrysler,300,Sedan,Teal,16655
+1507,2006,Lamborghini,Murcielago,"Convertible, Coupe",PowderBlue,44200
+1508,2020,BMW,3 Series,Sedan,Moccasin,19437
+1509,1998,Lincoln,Navigator,SUV,SeaShell,34510
+1510,2010,Lincoln,MKX,SUV,Salmon,38256
+1511,2001,Jaguar,XK,"Convertible, Coupe",PaleVioletRed,10794
+1512,1999,GMC,1500 Club Coupe,Pickup,Moccasin,50390
+1513,2003,Audi,A6,"Sedan, Wagon",Khaki,3229
+1514,2008,Pontiac,G6,"Sedan, Coupe, Convertible",MidnightBlue,18916
+1515,2013,Volkswagen,CC,Sedan,LightSalmon,17403
+1516,1994,Mercury,Cougar,Coupe,OliveDrab,12329
+1517,2003,Mercury,Grand Marquis,Sedan,SandyBrown,8848
+1518,2004,BMW,X3,SUV,Gainsboro,11344
+1519,2013,Ford,Flex,SUV,Aqua,39143
+1520,2015,Chevrolet,Impala,Sedan,Linen,54338
+1521,2005,Chevrolet,Express 3500 Cargo,Van/Minivan,SlateBlue,48462
+1522,2006,Hyundai,Sonata,Sedan,MintCream,31804
+1523,2013,Chevrolet,Spark,Hatchback,Aqua,54187
+1524,1999,Dodge,Grand Caravan Passenger,Van/Minivan,Orange,26734
+1525,2010,Chevrolet,Express 1500 Cargo,Van/Minivan,LavenderBlush,41763
+1526,1997,Chevrolet,Camaro,"Convertible, Coupe",LightPink,14884
+1527,2009,Hyundai,Tucson,SUV,DarkRed,6512
+1528,2018,Freightliner,Sprinter WORKER Cargo,Van/Minivan,MediumSeaGreen,18149
+1529,2019,Nissan,Titan Crew Cab,Pickup,GhostWhite,11358
+1530,2018,GMC,Sierra 3500 HD Double Cab,Pickup,DarkGray,31367
+1531,2013,Subaru,Outback,Wagon,Olive,6928
+1532,2006,Land Rover,LR3,SUV,Linen,57255
+1533,1993,Acura,Legend,"Sedan, Coupe",Orange,13475
+1534,2005,Mitsubishi,Lancer,Sedan,HoneyDew,35683
+1535,1994,Eagle,Talon,Hatchback,Maroon,10558
+1536,1995,MAZDA,B-Series Regular Cab,Pickup,Chartreuse,58774
+1537,1995,Mercury,Tracer,"Sedan, Wagon",Aquamarine,59977
+1538,1993,GMC,2500 Regular Cab,Pickup,DarkOliveGreen,29830
+1539,2001,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,Moccasin,9297
+1540,1994,INFINITI,G,Sedan,Violet,57333
+1541,2011,Volvo,XC70,Wagon,Brown,21114
+1542,2017,Mercedes-Benz,Mercedes-AMG GLC Coupe,SUV,Indigo,56122
+1543,2005,Chevrolet,Malibu,"Sedan, Hatchback",Olive,37579
+1544,1994,Mitsubishi,Diamante,"Sedan, Wagon",DimGray,50178
+1545,2007,Ford,Ranger Regular Cab,Pickup,Lavender,39425
+1546,2019,Land Rover,Range Rover Evoque,SUV,MediumSpringGreen,3459
+1547,2016,Mercedes-Benz,Mercedes-AMG GLE,SUV,Silver,49397
+1548,1992,Lexus,LS,Sedan,DarkBlue,54833
+1549,2016,Ford,Explorer,SUV,MediumOrchid,42141
+1550,2005,Saturn,Ion,"Sedan, Coupe",LightPink,13980
+1551,2010,Honda,Civic,"Sedan, Coupe",Plum,14371
+1552,2005,Ford,F350 Super Duty Super Cab,Pickup,LimeGreen,41796
+1553,2016,Nissan,LEAF,Hatchback,DarkCyan,43485
+1554,2002,Mercedes-Benz,G-Class,SUV,Lime,23640
+1555,1992,Chevrolet,APV Cargo,Van/Minivan,DarkGoldenRod,33345
+1556,2012,MAZDA,CX-9,SUV,DarkTurquoise,22796
+1557,2008,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,BlueViolet,26480
+1558,2018,Honda,Clarity Fuel Cell,Sedan,BurlyWood,27653
+1559,2016,Jeep,Patriot,SUV,Moccasin,2853
+1560,2010,INFINITI,G,"Coupe, Sedan, Convertible",BurlyWood,7913
+1561,2011,MAZDA,MAZDA3,"Sedan, Hatchback",IndianRed,30909
+1562,2020,Toyota,Corolla Hatchback,Hatchback,LimeGreen,52277
+1563,1995,Ford,Crown Victoria,Sedan,Aquamarine,2195
+1564,1998,Chrysler,Town & Country,Van/Minivan,DarkGoldenRod,36358
+1565,2004,Kia,Optima,Sedan,YellowGreen,13616
+1566,1999,Toyota,Tacoma Regular Cab,Pickup,DarkRed,46907
+1567,1996,Mercedes-Benz,S-Class,"Sedan, Coupe",ForestGreen,21306
+1568,1992,MAZDA,Protege,Sedan,Cornsilk,47739
+1569,2003,Honda,S2000,Convertible,Peru,17794
+1570,2009,Saturn,VUE,SUV,AliceBlue,6963
+1571,2001,Ford,Windstar Cargo,Van/Minivan,MediumSeaGreen,59081
+1572,2008,Maybach,62,Sedan,PaleGoldenRod,52497
+1573,1993,Chevrolet,Lumina APV,Van/Minivan,HotPink,13483
+1574,2007,Jeep,Patriot,SUV,LightCoral,6686
+1575,1997,Cadillac,DeVille,Sedan,ForestGreen,4997
+1576,2015,BMW,7 Series,Sedan,MediumTurquoise,58683
+1577,2018,Alfa Romeo,4C,Coupe,PapayaWhip,23177
+1578,2010,Dodge,Caliber,Wagon,Thistle,7113
+1579,1992,Suzuki,Samurai,SUV,LightGoldenRodYellow,41776
+1580,2010,Mercedes-Benz,CL-Class,Coupe,MediumAquaMarine,16641
+1581,1997,Honda,del Sol,Coupe,CornflowerBlue,36749
+1582,1998,Buick,LeSabre,Sedan,DeepPink,21623
+1583,2008,Subaru,Legacy,Sedan,FireBrick,35616
+1584,2020,Hyundai,Kona Electric,SUV,MistyRose,41879
+1585,2019,Nissan,NV2500 HD Cargo,Van/Minivan,Moccasin,55950
+1586,2006,Toyota,Highlander,SUV,Gainsboro,10969
+1587,2017,Mercedes-Benz,Metris WORKER Cargo,Van/Minivan,NavajoWhite,47139
+1588,2007,Nissan,Pathfinder,SUV,LightYellow,49725
+1589,2012,Toyota,4Runner,SUV,Snow,39090
+1590,2002,INFINITI,I,Sedan,PeachPuff,9393
+1591,2000,Chevrolet,Tracker,SUV,MediumSlateBlue,50285
+1592,1993,BMW,5 Series,"Wagon, Sedan",RosyBrown,52080
+1593,1997,GMC,3500 Club Coupe,Pickup,Green,4894
+1594,2001,Kia,Sephia,Sedan,LightGreen,10291
+1595,2012,Audi,TT,"Coupe, Convertible",DarkViolet,25877
+1596,1998,Dodge,Ram Van 1500,Van/Minivan,SandyBrown,41657
+1597,2013,Volkswagen,CC,Sedan,Azure,7661
+1598,2016,BMW,6 Series,"Coupe, Sedan, Convertible",MediumSlateBlue,46530
+1599,2008,Isuzu,Ascender,SUV,Gold,46623
+1600,2006,Lamborghini,Gallardo,"Coupe, Convertible",LawnGreen,46106
+1601,2019,Nissan,Rogue,SUV,SkyBlue,46202
+1602,2019,Kia,Niro EV,Wagon,LimeGreen,1968
+1603,2017,Chevrolet,SS,Sedan,Linen,42014
+1604,2009,Mercedes-Benz,CLS-Class,Coupe,Salmon,35797
+1605,2000,GMC,Sierra (Classic) 3500 Regular Cab,Pickup,DarkGoldenRod,31535
+1606,2009,Chrysler,300,Sedan,DarkOliveGreen,6895
+1607,2008,GMC,Savana 2500 Passenger,Van/Minivan,PaleVioletRed,4656
+1608,2017,Nissan,Pathfinder,SUV,LightYellow,11640
+1609,2020,Land Rover,Discovery Sport,SUV,OrangeRed,32173
+1610,2014,Volkswagen,Touareg,SUV,Fuchsia,45104
+1611,2012,Kia,Rio,"Hatchback, Sedan",AliceBlue,40709
+1612,2010,Ford,Ranger Regular Cab,Pickup,Coral,50496
+1613,2019,Hyundai,Santa Fe,SUV,BlueViolet,58843
+1614,1996,Ford,Econoline E250 Cargo,Van/Minivan,Olive,50629
+1615,1996,Acura,NSX,"Coupe, Convertible",DarkSlateGray,50717
+1616,1994,GMC,Vandura 2500,Van/Minivan,Aqua,6453
+1617,2008,GMC,Sierra 1500 Crew Cab,Pickup,PaleGoldenRod,49317
+1618,2013,Hyundai,Sonata,Sedan,Snow,18590
+1619,2002,MAZDA,Protege,Sedan,OldLace,6908
+1620,2012,Porsche,Cayman,Coupe,FloralWhite,16606
+1621,2000,GMC,Envoy,SUV,Linen,48921
+1622,2020,Nissan,Rogue,SUV,DarkSalmon,16110
+1623,1992,GMC,Suburban 2500,SUV,MediumOrchid,38904
+1624,2014,Chevrolet,Sonic,"Sedan, Hatchback",PaleGreen,4481
+1625,2018,Ford,Fusion Energi,Sedan,BlueViolet,45182
+1626,1992,Dodge,Dakota Club Cab,Pickup,MistyRose,11235
+1627,1993,Buick,Riviera,Coupe,Gray,45274
+1628,2006,Hyundai,Tiburon,Coupe,Maroon,38069
+1629,2002,Isuzu,Axiom,SUV,DarkSeaGreen,54394
+1630,2001,Chevrolet,Silverado 2500 Regular Cab,Pickup,DarkBlue,49474
+1631,1995,Acura,Legend,"Coupe, Sedan",DarkGray,43638
+1632,2015,Lamborghini,Huracan,Coupe,SandyBrown,9233
+1633,2008,Hyundai,Accent,"Hatchback, Sedan",MidnightBlue,5523
+1634,1999,Isuzu,Oasis,Van/Minivan,Azure,6017
+1635,2011,GMC,Sierra 2500 HD Crew Cab,Pickup,GreenYellow,3351
+1636,1994,Ford,Taurus,"Sedan, Wagon",Silver,59450
+1637,2011,Jeep,Patriot,SUV,PaleTurquoise,51315
+1638,2012,Acura,RDX,SUV,LightCoral,49862
+1639,1997,GMC,2500 Club Coupe,Pickup,Navy,56633
+1640,2010,Ford,Mustang,"Coupe, Convertible",RoyalBlue,56422
+1641,2018,Nissan,TITAN XD King Cab,Pickup,LightYellow,44053
+1642,2008,BMW,Alpina B7,Sedan,GreenYellow,50200
+1643,2009,BMW,3 Series,"Sedan, Convertible, Coupe, Wagon",WhiteSmoke,2429
+1644,2004,Volkswagen,Touareg,SUV,DarkOliveGreen,39521
+1645,2008,Ferrari,599 GTB Fiorano,Coupe,Salmon,53244
+1646,2002,MAZDA,Protege5,Hatchback,WhiteSmoke,51826
+1647,2001,GMC,Safari Cargo,Van/Minivan,Salmon,26305
+1648,1992,Toyota,Previa,Van/Minivan,Black,3754
+1649,1993,Toyota,Land Cruiser,SUV,Azure,33912
+1650,2018,BMW,X4,SUV,Moccasin,13690
+1651,2017,Volkswagen,Jetta,Sedan,IndianRed,50770
+1652,1995,Ford,Contour,Sedan,GhostWhite,25987
+1653,2016,Mercedes-Benz,Mercedes-AMG GT,Coupe,MidnightBlue,31765
+1654,2004,GMC,Savana 2500 Passenger,Van/Minivan,FloralWhite,13603
+1655,2018,Chevrolet,Corvette,"Coupe, Convertible",Teal,45912
+1656,1996,Saab,900,"Hatchback, Convertible",LawnGreen,21974
+1657,2018,Nissan,Frontier Crew Cab,Pickup,MediumSpringGreen,22610
+1658,2016,Acura,MDX,SUV,Wheat,9790
+1659,2002,Dodge,Ram Van 2500,Van/Minivan,DodgerBlue,41706
+1660,1998,Ford,Escort,"Sedan, Coupe, Wagon",Pink,28577
+1661,1995,Dodge,Caravan Passenger,Van/Minivan,DodgerBlue,46873
+1662,1996,Volkswagen,Passat,"Sedan, Wagon",Ivory,39289
+1663,2018,Jaguar,XF,"Sedan, Wagon",Peru,46881
+1664,1998,Suzuki,Esteem,"Sedan, Wagon",Magenta,19588
+1665,2002,GMC,Envoy XL,SUV,OrangeRed,59125
+1666,2000,Mitsubishi,Montero Sport,SUV,MediumSlateBlue,25601
+1667,1992,Dodge,D250 Regular Cab,Pickup,Cyan,27514
+1668,2008,Chrysler,PT Cruiser,"Wagon, Convertible",DarkGray,50383
+1669,2017,Chevrolet,Silverado 1500 Crew Cab,Pickup,DarkGreen,6641
+1670,2016,Hyundai,Accent,"Hatchback, Sedan",MediumPurple,27914
+1671,1998,Honda,CR-V,SUV,MediumSpringGreen,4867
+1672,2017,Dodge,Journey,SUV,MidnightBlue,19990
+1673,1997,Acura,NSX,"Coupe, Convertible",Khaki,34721
+1674,2020,Hyundai,Santa Fe,SUV,BlueViolet,47492
+1675,2000,Chevrolet,Express 3500 Cargo,Van/Minivan,Snow,32752
+1676,2006,Chevrolet,Avalanche 1500,Pickup,LemonChiffon,9420
+1677,1999,GMC,Envoy,SUV,Wheat,30383
+1678,2007,Volvo,S80,Sedan,FloralWhite,3143
+1679,2009,Lexus,LS,Sedan,Coral,59858
+1680,1994,Oldsmobile,Cutlass Cruiser,Wagon,Crimson,27868
+1681,2015,Audi,allroad,Wagon,LightBlue,14809
+1682,2011,GMC,Sierra 2500 HD Extended Cab,Pickup,FireBrick,13836
+1683,2004,Volkswagen,Passat,"Sedan, Wagon",Fuchsia,9184
+1684,2019,FIAT,500e,Hatchback,GhostWhite,18033
+1685,1996,Dodge,Ram 1500 Club Cab,Pickup,Bisque,31235
+1686,1997,Acura,TL,Sedan,GhostWhite,37285
+1687,2020,Kia,Forte,Sedan,Gray,12677
+1688,2004,Porsche,911,"Convertible, Coupe",HotPink,43090
+1689,1997,Ford,Ranger Super Cab,Pickup,RoyalBlue,7257
+1690,2011,Ford,F150 Super Cab,Pickup,PowderBlue,37005
+1691,2018,Lamborghini,Aventador,"Convertible, Coupe",DimGray,13550
+1692,2019,Ford,Transit 150 Van,Van/Minivan,DarkGray,34405
+1693,2019,Jaguar,XE,Sedan,IndianRed,1239
+1694,2009,Ford,F250 Super Duty Crew Cab,Pickup,Linen,14197
+1695,2006,Ford,E250 Super Duty Cargo,Van/Minivan,Beige,37235
+1696,1992,GMC,3500 Regular Cab,Pickup,Gray,33418
+1697,2009,Ford,Expedition EL,SUV,Silver,38291
+1698,2010,Ford,F250 Super Duty Regular Cab,Pickup,WhiteSmoke,1430
+1699,2008,Audi,A6,"Sedan, Wagon",Aqua,6952
+1700,2014,Audi,RS 5,"Convertible, Coupe",Wheat,47519
+1701,2011,Ram,1500 Regular Cab,Pickup,FloralWhite,26255
+1702,2008,Acura,MDX,SUV,PaleGreen,6809
+1703,1994,Chevrolet,Camaro,"Convertible, Hatchback",PaleGoldenRod,27922
+1704,2017,Toyota,Tundra Double Cab,Pickup,DarkKhaki,36258
+1705,2008,Buick,Enclave,SUV,GhostWhite,26806
+1706,2007,Volvo,S60,Sedan,OliveDrab,47136
+1707,2003,Subaru,Baja,Pickup,Moccasin,23638
+1708,1995,Acura,TL,Sedan,Maroon,22326
+1709,2019,Cadillac,XT5,SUV,Tomato,35926
+1710,2011,GMC,Sierra 1500 Regular Cab,Pickup,Cornsilk,4208
+1711,2012,Audi,A4,"Sedan, Wagon",DarkOrchid,46481
+1712,2011,Kia,Optima,Sedan,LightPink,49050
+1713,2005,Nissan,Altima,Sedan,PaleTurquoise,59299
+1714,2012,Nissan,NV3500 HD Cargo,Van/Minivan,Brown,30052
+1715,2018,Volkswagen,Jetta,Sedan,Orange,51709
+1716,2008,Saab,9-7X,SUV,OliveDrab,43166
+1717,2009,Aston Martin,DB9,"Coupe, Convertible",Brown,30560
+1718,2012,Chevrolet,Tahoe,SUV,LightSalmon,22924
+1719,1996,Plymouth,Grand Voyager,Van/Minivan,Purple,34006
+1720,1993,GMC,Sonoma Club Coupe Cab,Pickup,Thistle,37347
+1721,2004,Porsche,Carrera GT,Convertible,DarkCyan,3896
+1722,2010,Chevrolet,Colorado Crew Cab,Pickup,DarkGreen,39466
+1723,2008,Mercedes-Benz,R-Class,Wagon,LightSlateGray,11524
+1724,1996,Chevrolet,G-Series G30,Van/Minivan,LavenderBlush,37995
+1725,2018,Hyundai,Santa Fe Sport,SUV,GreenYellow,16816
+1726,2019,Nissan,NV2500 HD Cargo,Van/Minivan,Red,44401
+1727,2009,GMC,Savana 1500 Cargo,Van/Minivan,Linen,37549
+1728,1992,Volvo,940,"Sedan, Wagon",Yellow,24822
+1729,2010,Subaru,Legacy,Sedan,SlateGray,13809
+1730,1996,Mitsubishi,Diamante,Sedan,YellowGreen,21011
+1731,2013,GMC,Acadia,SUV,Cornsilk,2027
+1732,2020,Kia,Optima Plug-in Hybrid,Sedan,LightSalmon,26678
+1733,2018,Mercedes-Benz,Mercedes-AMG GLE Coupe,SUV,DodgerBlue,39023
+1734,2013,Acura,ZDX,SUV,Tan,26261
+1735,2011,Chevrolet,Suburban 1500,SUV,Blue,15981
+1736,2010,Lexus,GX,SUV,DeepSkyBlue,4827
+1737,2012,Chrysler,200,"Sedan, Convertible",Aqua,45206
+1738,2006,Saturn,Ion,"Sedan, Coupe",MediumBlue,7358
+1739,2008,Nissan,Frontier King Cab,Pickup,DarkSalmon,13562
+1740,2009,Dodge,Ram 3500 Regular Cab,Pickup,SlateBlue,21382
+1741,2002,Dodge,Stratus,"Coupe, Sedan",Orchid,54841
+1742,1999,Buick,Century,Sedan,Beige,55364
+1743,2007,Lexus,SC,Convertible,RosyBrown,44959
+1744,2007,GMC,Sierra (Classic) 1500 Regular Cab,Pickup,MediumSeaGreen,12761
+1745,2017,Chrysler,300,Sedan,Peru,53205
+1746,2013,Nissan,NV1500 Cargo,Van/Minivan,Bisque,19483
+1747,2013,Ford,Transit Connect Cargo,Van/Minivan,Brown,39951
+1748,2015,Chevrolet,Corvette,"Convertible, Coupe",Gold,20127
+1749,2007,Dodge,Ram 3500 Mega Cab,Pickup,DarkKhaki,15576
+1750,2016,Honda,Fit,Hatchback,Pink,8777
+1751,2013,Lamborghini,Aventador,"Coupe, Convertible",Black,58183
+1752,2005,MAZDA,MX-5 Miata,Convertible,Aquamarine,34177
+1753,2014,BMW,7 Series,Sedan,MediumSeaGreen,46136
+1754,2009,GMC,Sierra 1500 Crew Cab,Pickup,DarkGoldenRod,33503
+1755,1995,GMC,1500 Club Coupe,Pickup,Violet,30482
+1756,2013,Nissan,Armada,SUV,HoneyDew,47459
+1757,1995,Hyundai,Elantra,Sedan,CornflowerBlue,13829
+1758,2012,Volkswagen,Touareg,SUV,WhiteSmoke,57222
+1759,2008,Ferrari,430 Scuderia,Coupe,Gold,56085
+1760,1993,Plymouth,Colt Vista,Wagon,DeepSkyBlue,31751
+1761,2011,Audi,S4,Sedan,DeepPink,37637
+1762,2004,Dodge,Stratus,"Sedan, Coupe",Khaki,29291
+1763,1993,Mercedes-Benz,500 SEC,Coupe,DarkOrange,24047
+1764,2011,Toyota,Camry,Sedan,LightGoldenRodYellow,28033
+1765,1999,Hyundai,Elantra,"Sedan, Wagon",PaleGreen,23855
+1766,2008,Dodge,Ram 3500 Mega Cab,Pickup,White,5889
+1767,2011,Mitsubishi,Outlander Sport,SUV,Silver,53639
+1768,2013,Ford,Escape,SUV,LightPink,40705
+1769,2011,Chevrolet,Colorado Crew Cab,Pickup,PapayaWhip,13715
+1770,2000,Dodge,Ram 1500 Regular Cab,Pickup,Bisque,42999
+1771,2012,Mercedes-Benz,CLS-Class,Coupe,LavenderBlush,48843
+1772,2016,Volvo,XC90,SUV,PapayaWhip,35138
+1773,2016,Audi,S7,Sedan,DarkOrange,26363
+1774,2019,Chevrolet,Express 2500 Passenger,Van/Minivan,SandyBrown,1803
+1775,1997,BMW,3 Series,"Coupe, Hatchback, Convertible, Sedan",WhiteSmoke,48670
+1776,2020,Dodge,Charger,Sedan,LightCyan,50641
+1777,2012,Toyota,Sequoia,SUV,SpringGreen,31925
+1778,2001,Kia,Spectra,Hatchback,SpringGreen,21580
+1779,2020,Mitsubishi,Outlander,SUV,MediumPurple,44919
+1780,1999,BMW,3 Series,"Coupe, Hatchback, Convertible, Sedan",Aquamarine,33599
+1781,1996,BMW,7 Series,Sedan,Magenta,55539
+1782,2009,Aston Martin,DBS,"Coupe, Convertible",DarkGoldenRod,4831
+1783,2015,Lexus,LS,Sedan,Sienna,12947
+1784,2019,Mercedes-Benz,GLC,SUV,MediumVioletRed,7105
+1785,2018,BMW,X5,SUV,Indigo,17331
+1786,2005,Nissan,Quest,Van/Minivan,MistyRose,14839
+1787,2005,Kia,Optima,Sedan,DeepPink,42647
+1788,1996,Land Rover,Range Rover,SUV,Salmon,55373
+1789,2008,MAZDA,RX-8,Coupe,SlateBlue,23707
+1790,2008,Dodge,Ram 3500 Mega Cab,Pickup,LightGray,29903
+1791,2020,Toyota,Tacoma Double Cab,Pickup,GoldenRod,49738
+1792,2010,Toyota,RAV4,SUV,MediumSeaGreen,14743
+1793,2014,Nissan,GT-R,Coupe,Beige,18216
+1794,2006,GMC,Canyon Extended Cab,Pickup,Magenta,7913
+1795,1998,Isuzu,Amigo,SUV,Chartreuse,5916
+1796,2014,Nissan,Frontier Crew Cab,Pickup,Chartreuse,28185
+1797,2015,Ford,Expedition EL,SUV,Azure,30156
+1798,2008,Mercedes-Benz,S-Class,Sedan,LightBlue,45712
+1799,2015,Lexus,NX,SUV,ForestGreen,1472
+1800,2007,Nissan,Sentra,Sedan,LightGreen,15000
+1801,2017,BMW,M2,Coupe,Lime,31190
+1802,2013,Mercedes-Benz,GLK-Class,SUV,DarkCyan,33151
+1803,2003,Dodge,Dakota Club Cab,Pickup,YellowGreen,26971
+1804,1997,Lexus,GS,Sedan,LightSteelBlue,48391
+1805,2015,Dodge,Charger,Sedan,LightGreen,41614
+1806,1999,Ford,Explorer,SUV,DarkOliveGreen,58571
+1807,2017,Volvo,S60,Sedan,MediumPurple,36940
+1808,2003,Mitsubishi,Outlander,SUV,DodgerBlue,37300
+1809,2004,Chevrolet,Colorado Regular Cab,Pickup,Turquoise,29697
+1810,2000,Dodge,Ram 2500 Regular Cab,Pickup,PaleVioletRed,10161
+1811,2014,Aston Martin,Vanquish,"Coupe, Convertible",SpringGreen,53537
+1812,2002,Mercury,Sable,"Sedan, Wagon",DarkBlue,58501
+1813,1994,Honda,Passport,SUV,MintCream,44696
+1814,1997,Cadillac,Catera,Sedan,SeaShell,10388
+1815,2010,Pontiac,G3,Hatchback,Purple,54064
+1816,1999,Buick,LeSabre,Sedan,Ivory,52277
+1817,2005,Chevrolet,Aveo,"Sedan, Hatchback",MediumSeaGreen,2456
+1818,2006,Cadillac,CTS,Sedan,DeepSkyBlue,27556
+1819,2002,Chevrolet,Tracker,SUV,DarkOrchid,8668
+1820,2007,Ford,F350 Super Duty Regular Cab,Pickup,RosyBrown,30967
+1821,2012,Volkswagen,GTI,Hatchback,WhiteSmoke,23898
+1822,2004,Mitsubishi,Diamante,Sedan,Cornsilk,9124
+1823,2007,Maybach,57,Sedan,PaleGreen,20094
+1824,2004,Land Rover,Discovery,SUV,AliceBlue,32230
+1825,2000,Nissan,Maxima,Sedan,LightGray,7364
+1826,1994,Pontiac,Sunbird,"Sedan, Coupe, Convertible",LightSeaGreen,44318
+1827,2009,Toyota,Sienna,Van/Minivan,MediumOrchid,47254
+1828,2016,Ford,Expedition,SUV,DeepSkyBlue,24514
+1829,2018,BMW,X2,SUV,Maroon,1579
+1830,1996,Chevrolet,Blazer,SUV,Chartreuse,5438
+1831,2017,Mercedes-Benz,CLS,Sedan,Fuchsia,42202
+1832,2020,Porsche,Cayenne,SUV,SteelBlue,9415
+1833,2016,Lexus,LX,SUV,MediumPurple,50679
+1834,2019,Chevrolet,Trax,SUV,RoyalBlue,22628
+1835,2000,Honda,Insight,Hatchback,DarkRed,56219
+1836,2009,Land Rover,LR2,SUV,Brown,39960
+1837,2019,Honda,Pilot,SUV,Olive,9660
+1838,2007,Chevrolet,Silverado (Classic) 1500 Extended Cab,Pickup,MediumSeaGreen,19222
+1839,2006,Mitsubishi,Raider Extended Cab,Pickup,DeepPink,9797
+1840,2002,Toyota,Sienna,Van/Minivan,SlateBlue,45360
+1841,2017,Lexus,RX,SUV,Chocolate,52240
+1842,2006,Chevrolet,Colorado Extended Cab,Pickup,Cyan,43415
+1843,1992,Acura,Vigor,Sedan,MediumPurple,50525
+1844,2002,Mercedes-Benz,M-Class,SUV,Thistle,12897
+1845,1998,MAZDA,626,Sedan,RoyalBlue,45191
+1846,1997,Chevrolet,Malibu,Sedan,Magenta,52937
+1847,1996,Toyota,Previa,Van/Minivan,DarkMagenta,29548
+1848,2007,GMC,Savana 2500 Cargo,Van/Minivan,Tan,9045
+1849,1996,Chevrolet,Sportvan G30,Van/Minivan,LightSeaGreen,44352
+1850,1996,Lincoln,Continental,Sedan,CornflowerBlue,25940
+1851,2009,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,DarkSlateBlue,37969
+1852,2000,Mercury,Villager,Van/Minivan,AliceBlue,10284
+1853,2008,Chevrolet,Silverado 2500 HD Extended Cab,Pickup,Coral,57853
+1854,2019,Audi,S4,Sedan,MintCream,5238
+1855,2019,Volkswagen,Golf GTI,Hatchback,IndianRed,13321
+1856,1994,Volvo,960,"Sedan, Wagon",DeepPink,39670
+1857,2019,INFINITI,QX50,SUV,Lavender,43385
+1858,2008,Toyota,Prius,Hatchback,DodgerBlue,23170
+1859,2010,Chevrolet,Silverado 2500 HD Extended Cab,Pickup,Crimson,31348
+1860,2017,Hyundai,Tucson,SUV,DimGray,38087
+1861,2001,Mitsubishi,Montero,SUV,Lavender,32500
+1862,2003,BMW,5 Series,"Sedan, Wagon",OliveDrab,40370
+1863,2018,Honda,Pilot,SUV,MediumAquaMarine,45500
+1864,2010,Chevrolet,Corvette,"Coupe, Convertible",Teal,11435
+1865,2006,Chevrolet,Avalanche 1500,Pickup,LightSteelBlue,21708
+1866,1998,Ford,F150 Regular Cab,Pickup,Orchid,41299
+1867,2017,Freightliner,Sprinter 3500XD Cargo,Van/Minivan,DarkSlateGray,11695
+1868,2007,Ford,Freestyle,SUV,DeepPink,15889
+1869,2001,Toyota,Celica,Hatchback,OrangeRed,12761
+1870,2008,MAZDA,MAZDA5,Van/Minivan,DarkOliveGreen,49960
+1871,2010,BMW,3 Series,"Sedan, Coupe, Convertible, Wagon",Aquamarine,22658
+1872,2009,Pontiac,G3,Hatchback,LightGray,7478
+1873,2012,Nissan,Sentra,Sedan,LawnGreen,4906
+1874,1998,GMC,Savana 3500 Cargo,Van/Minivan,DarkGray,32551
+1875,2012,Chevrolet,Express 3500 Cargo,Van/Minivan,Crimson,54801
+1876,2017,Buick,Cascada,Convertible,SkyBlue,49754
+1877,2004,Lexus,GX,SUV,DarkBlue,34307
+1878,2014,smart,fortwo,"Hatchback, Convertible",DarkMagenta,52280
+1879,2013,Lexus,LX,SUV,Olive,37099
+1880,2012,Ford,F250 Super Duty Crew Cab,Pickup,RosyBrown,56839
+1881,2014,Lexus,GS,Sedan,PaleGreen,21950
+1882,2004,Volkswagen,GTI,Hatchback,GoldenRod,14075
+1883,1998,Lexus,SC,Coupe,DarkViolet,53158
+1884,2000,Chevrolet,2500 HD Regular Cab,Pickup,Orchid,37558
+1885,1998,Oldsmobile,Silhouette,Van/Minivan,HotPink,59474
+1886,1993,Ford,Escort,"Hatchback, Sedan, Wagon",AliceBlue,45423
+1887,2004,Ford,Ranger Super Cab,Pickup,MediumVioletRed,58925
+1888,2013,Ram,2500 Mega Cab,Pickup,Gold,26861
+1889,2011,Lotus,Evora,Coupe,Maroon,28173
+1890,1999,Toyota,4Runner,SUV,DodgerBlue,20173
+1891,2015,Lexus,GS,Sedan,FireBrick,35393
+1892,2004,Dodge,Grand Caravan Cargo,Van/Minivan,Aquamarine,44003
+1893,2003,Chrysler,Town & Country,Van/Minivan,SandyBrown,41064
+1894,2004,Acura,TL,Sedan,Turquoise,32786
+1895,2013,Lincoln,MKT,SUV,CornflowerBlue,11246
+1896,2007,Subaru,B9 Tribeca,SUV,LightGray,51505
+1897,2008,Volvo,XC70,Wagon,SaddleBrown,59756
+1898,2010,Honda,CR-V,SUV,LightPink,58428
+1899,2005,Nissan,Altima,Sedan,Blue,40947
+1900,2015,Hyundai,Santa Fe,SUV,LightGray,36159
+1901,1998,Eagle,Talon,Hatchback,LimeGreen,54087
+1902,2018,Hyundai,Santa Fe Sport,SUV,DarkSalmon,18323
+1903,2006,Mercedes-Benz,SLK-Class,Convertible,SaddleBrown,45716
+1904,1999,Isuzu,Rodeo,SUV,GhostWhite,2768
+1905,1993,Nissan,300ZX,"Hatchback, Convertible",FireBrick,26265
+1906,2008,Kia,Optima,Sedan,PaleGoldenRod,4246
+1907,2015,Toyota,Avalon,Sedan,Silver,45082
+1908,2017,Ford,Explorer,SUV,LightGray,26604
+1909,2010,Maserati,Quattroporte,Sedan,Snow,58220
+1910,2003,Chevrolet,Express 1500 Cargo,Van/Minivan,GreenYellow,42738
+1911,1999,Nissan,Pathfinder,SUV,Gray,16130
+1912,2013,MINI,Countryman,Hatchback,DarkSlateGray,44546
+1913,2016,Chevrolet,Equinox,SUV,Lavender,58133
+1914,2013,Ford,Focus ST,Hatchback,DimGray,33808
+1915,2007,Acura,RDX,SUV,Gray,40957
+1916,2009,Volkswagen,Tiguan,SUV,LightGray,26054
+1917,1998,Cadillac,Seville,Sedan,PowderBlue,31830
+1918,2011,Volvo,S60,Sedan,Gainsboro,39042
+1919,2018,Nissan,Murano,SUV,DarkViolet,45853
+1920,2003,Chevrolet,Silverado 2500 HD Extended Cab,Pickup,Khaki,12932
+1921,2017,Buick,LaCrosse,Sedan,DarkMagenta,35861
+1922,2012,BMW,5 Series,Sedan,PaleGreen,59917
+1923,2015,Toyota,Venza,Wagon,AntiqueWhite,11214
+1924,2012,GMC,Yukon XL 2500,SUV,SteelBlue,14074
+1925,2006,GMC,Canyon Crew Cab,Pickup,RosyBrown,49102
+1926,1999,Ford,Econoline E150 Passenger,Van/Minivan,DarkCyan,55192
+1927,1994,BMW,3 Series,"Sedan, Coupe, Convertible",Khaki,15193
+1928,1996,Dodge,Viper,"Coupe, Convertible",LightGoldenRodYellow,54172
+1929,2002,Oldsmobile,Intrigue,Sedan,DarkGray,12715
+1930,1995,Mercury,Tracer,"Sedan, Wagon",Beige,54249
+1931,1996,Dodge,Ram 3500 Regular Cab,Pickup,GhostWhite,21834
+1932,2004,Ford,Thunderbird,Convertible,PaleGoldenRod,4095
+1933,2012,Mercedes-Benz,CLS-Class,Coupe,DarkSlateBlue,36653
+1934,1995,Toyota,Camry,"Sedan, Coupe, Wagon",Lavender,17781
+1935,2011,Mitsubishi,Eclipse,"Coupe, Convertible",MediumSeaGreen,44324
+1936,2002,Ford,Econoline E150 Passenger,Van/Minivan,MintCream,20488
+1937,1994,MAZDA,B-Series Cab Plus,Pickup,PaleGreen,36455
+1938,2020,Hyundai,NEXO,SUV,LawnGreen,16405
+1939,2018,Chevrolet,Bolt EV,Hatchback,HoneyDew,17247
+1940,1998,Isuzu,Oasis,Van/Minivan,Gray,15199
+1941,2010,GMC,Savana 1500 Passenger,Van/Minivan,Navy,27007
+1942,1994,GMC,Vandura 1500,Van/Minivan,DarkViolet,52036
+1943,1995,INFINITI,J,Sedan,OrangeRed,30800
+1944,2009,Ferrari,430 Scuderia,"Coupe, Convertible",LawnGreen,30855
+1945,2005,Jeep,Liberty,SUV,Thistle,5391
+1946,2017,Nissan,Pathfinder,SUV,Blue,49463
+1947,2015,Rolls-Royce,Phantom,"Coupe, Convertible, Sedan",Gainsboro,17689
+1948,2002,Acura,RSX,Coupe,SaddleBrown,29791
+1949,2012,Toyota,Tundra CrewMax,Pickup,Bisque,34454
+1950,2004,INFINITI,Q,Sedan,Bisque,7183
+1951,2008,Chevrolet,Colorado Crew Cab,Pickup,SkyBlue,43084
+1952,2000,Saab,3-Sep,"Hatchback, Convertible",Cyan,35438
+1953,2010,BMW,7 Series,Sedan,Chartreuse,48131
+1954,2007,Mitsubishi,Eclipse,"Convertible, Coupe",Gold,53224
+1955,2014,Freightliner,Sprinter 2500 Cargo,Van/Minivan,LightBlue,30317
+1956,2011,Ram,1500 Crew Cab,Pickup,LightBlue,57946
+1957,1992,GMC,1500 Regular Cab,Pickup,Tomato,25025
+1958,2018,Honda,HR-V,SUV,Orange,13760
+1959,2011,Hyundai,Santa Fe,SUV,Brown,27122
+1960,2020,Subaru,WRX,Sedan,Linen,21468
+1961,2014,Ford,C-MAX Hybrid,Wagon,BurlyWood,54401
+1962,2011,Aston Martin,DB9,"Convertible, Coupe",MintCream,35409
+1963,2012,MINI,Countryman,Hatchback,DarkRed,25325
+1964,2002,Dodge,Ram Wagon 3500,Van/Minivan,Violet,23277
+1965,2019,GMC,Sierra 2500 HD Double Cab,Pickup,Maroon,55496
+1966,2007,Hyundai,Veracruz,SUV,MediumSeaGreen,35526
+1967,1993,BMW,5 Series,"Wagon, Sedan",LightYellow,21042
+1968,2007,BMW,6 Series,"Coupe, Convertible",LightSalmon,51967
+1969,1992,GMC,1500 Regular Cab,Pickup,Green,25167
+1970,2001,Lexus,GS,Sedan,SlateGray,33050
+1971,2013,Lamborghini,Aventador,"Coupe, Convertible",LightCyan,21452
+1972,2019,Volvo,XC40,SUV,BlueViolet,40096
+1973,1995,Nissan,Sentra,Sedan,Orange,48641
+1974,2002,Chevrolet,Astro Cargo,Van/Minivan,Blue,44281
+1975,2017,Mercedes-Benz,Sprinter 3500 XD Cargo,Van/Minivan,DeepPink,21649
+1976,2019,INFINITI,QX50,SUV,Tan,29162
+1977,2003,Honda,Pilot,SUV,Bisque,10065
+1978,2003,Lexus,LS,Sedan,LightSteelBlue,8179
+1979,1997,MAZDA,Protege,Sedan,DarkMagenta,2891
+1980,2020,Toyota,Camry,Sedan,Beige,43783
+1981,2010,smart,fortwo,"Hatchback, Convertible",Silver,22408
+1982,2019,Chevrolet,Silverado 3500 HD Crew Cab,Pickup,DarkKhaki,11288
+1983,1995,Saab,900,"Hatchback, Convertible",MediumSeaGreen,1280
+1984,2002,Hyundai,Santa Fe,SUV,DarkOliveGreen,55058
+1985,1999,Cadillac,Escalade,SUV,RosyBrown,5165
+1986,2006,Chevrolet,Impala,Sedan,Tomato,19853
+1987,1993,Mercedes-Benz,300 SD,Sedan,FloralWhite,44108
+1988,2000,Chevrolet,2500 HD Extended Cab,Pickup,GreenYellow,18863
+1989,2019,Ford,F150 Super Cab,Pickup,DarkCyan,20166
+1990,2019,BMW,X3,SUV,Gray,19536
+1991,2002,GMC,Sonoma Regular Cab,Pickup,Gold,30056
+1992,2019,Kia,Optima Hybrid,Sedan,HoneyDew,13579
+1993,2000,Ford,F150 Regular Cab,Pickup,MintCream,39924
+1994,2009,Bentley,Brooklands,Coupe,MediumOrchid,32227
+1995,2014,Hyundai,Tucson,SUV,BurlyWood,42929
+1996,1999,Dodge,Ram 1500 Club Cab,Pickup,DarkSalmon,44593
+1997,2018,Chevrolet,Suburban 3500HD,SUV,SteelBlue,47446
+1998,2012,Chrysler,300,Sedan,Peru,29705
+1999,2004,GMC,Sierra 2500 HD Crew Cab,Pickup,FireBrick,20684
